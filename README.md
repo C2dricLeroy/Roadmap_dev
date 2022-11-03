@@ -55,7 +55,9 @@ Listes des competences / outils :
 - Connaissance lie au framework lie a l'entreprise
 - Connaissance des software les plus communs sur linux et windows
 - Bon niveau d'anglais technique
-- 
+- Etre autonome
+
+
 
 
 Listes des softskills : 
@@ -66,4 +68,7 @@ Listes des softskills :
 - Esprit d'equipe
 - Gestion du temps et du stresse
 - Curiosite
+
+Ces softskills et hardskills s'applique pour beaucoup de métier dans le corp du développement, en l'occurence, ici, pour les développeurs Back-end et Front-end.
+
 
