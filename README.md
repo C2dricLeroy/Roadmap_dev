@@ -142,3 +142,13 @@ Celui-ci à le choix de se spécialiser dans différents domaines ou technologie
 
 Lorsque l’on possède une compétence, il n’y a pas la notion de pratique qui entre en jeu. Il faut agir avec une compétence pour être compétent.
 Grâce à ses compétences, on peut devenir compétent, à force de pratique, en utilisant ses compétences, les compétences sont reconnues.
+
+# Startup vs ESN
+
+#### Qu'est-ce qu'une Startup ?
+Une startup est une nouvelle entreprise avec un potentiel croissant. Ayant pour objectif de dominer le marché dans lequel est son secteur d'activité. 
+Elle passe par une phase temporaire visant à obtenir une entreprise stable.
+
+Dans ce type d'entreprise, vous devez être capable de vous adaptez aux méthodologies actuel et aux nouvelles technologies. Nouvellement créer, elle recherchera des personnes autonomes, polyvalentes car elle manquera de personnel. Cependant, elle prendre soin de ces employés avec des horaires flexibles, des bureaux agréables, utilisant la méthodologie agile... 
+Les facteurs de succès sont associés au code durable, documenté et testé. 
+Elle aura une grande responsabilité dans la stratégie de marketing cherchant à améliorer sa productivité.
