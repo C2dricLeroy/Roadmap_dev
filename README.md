@@ -244,3 +244,14 @@ Négatif:
 Ne pas rester sur ses acquis et continuer de se former, d'être curieux. 
 Rendre un travail qualitatif et minutieux. 
 Se lancer en freelance après une expérience en entreprise. 
+
+
+
+
+
+
+Sources : 
+
+- https://www.researchgate.net/publication/345629105_Avoir_des_competences_ou_etre_competent_L'approche_enactive_comme_alternative_a_l'approche_par_competences
+- https://www.cnrtl.fr/
+- 
