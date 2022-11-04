@@ -143,9 +143,9 @@ Celui-ci à le choix de se spécialiser dans différents domaines ou technologie
 Lorsque l’on possède une compétence, il n’y a pas la notion de pratique qui entre en jeu. Il faut agir avec une compétence pour être compétent.
 Grâce à ses compétences, on peut devenir compétent, à force de pratique, en utilisant ses compétences, les compétences sont reconnues.
 
-# Startup vs ESN
+## Startup vs ESN
 
-#### Qu'est-ce qu'une Startup ?
+### Qu'est-ce qu'une Startup ?
 Une startup est une nouvelle entreprise avec un potentiel croissant. Ayant pour objectif de dominer le marché dans lequel est son secteur d'activité. 
 Elle passe par une phase temporaire visant à obtenir une entreprise stable.
 
@@ -153,8 +153,94 @@ Dans ce type d'entreprise, vous devez être capable de vous adaptez aux méthodo
 Les facteurs de succès sont associés au code durable, documenté et testé. 
 Elle aura une grande responsabilité dans la stratégie de marketing cherchant à améliorer sa productivité.
 
-#### Qu'est-ce que l'ESN et  le SSI ?
+### Qu'est-ce que l'ESN et  le SSI ?
 l'ESN (Entreprise de service numérique) anciennement connu sous le nom SSI (Société de service en ingénierie informatique), apporte ses services dans le domaine informatique aux entreprises clientes, souvent sans matériel adequat et intervienne directement chez eux. 
 L'ESN propose différents services par exemple donner des conseils, faire une maintenance, intégrer un système etc. 
 
 Ce type d'entreprise embauche facilement des juniors spécialisées dans leur domaine avec une faible rémunération, pour travailler sur des missions spécifiques. Ils devront être multitâches et travailler sur plusieurs projets. Chacun pourra s'épanouir dans sa spécialité néanmoins ils auront peu d'évolution.
+
+
+
+
+
+
+
+
+
+## Interview d'un développeur 
+
+### Préparation de l'interview : 
+
+En amont de l'interview, nous nous sommes réunis en groupe afin de déterminer différents domaines : 
+- Nombre d'années d'expérience
+- Parcours de formation / parcours professionnel
+- Intitulé du poste ? 
+- Langage / stack utilisée
+- Place de la méthodologie Agile
+- Compétences métier à maîtriser avant embauche
+- Missions quotidiennes
+- Soft skills nécessaires
+- Journée type
+- Place de la gestion de projet
+- Difficultés rencontrées et comment les résoudre ? 
+- Conseils pour nous ? 
+- Avantages et inconvénients du métier. 
+
+De ces domaines, nous avons tiré des questions écrites et préparées, mais modifiables en condition réelle afin d’éviter tout problème durant l’interview. 
+
+### Réalisation de l'interview : 
+
+L’interview s’est déroulée en visioconférence. Le développeur interrogé nous a prévenu avoir la fin de matinée devant lui, nous nous sommes donc permis de poser toutes les questions. L’interview a donc duré 60 minutes.
+Nous avons opté pour une retranscription manuelle de l'entièreté des réponses de l'interviewé afin de plus facilement pouvoir les lire et permettre au plus grand nombre d'avoir accès à celles-ci. Une copie de cette re-transcription est donc disponible dans le repository Github dédié à ce brief. Le choix a également été fait d'anonymiser la personne car plusieurs éléments concernant des entreprises ont été énoncées. 
+
+### Synthèse
+
+De cette interview, une synthèse des informations les plus importantes peut être tirée : 
+
+#### Parcours d'étude : 
+Baccalauréat Scientifique spécialisation sciences de l'ingénieur, puis Epitech.
+
+#### Les maîtrises nécessaires pour entrer en entreprise : 
+Langage C pour sa part --> Permet la polyvalence et l'autonomie.
+  
+#### La méthodologie Agile : 
+En solo et sur des petits projets préfère le kanban qui est suffisant. Pour l'entreprise la méthodologie Agile est indispensable. Malheureusement, elle n'est pas toujours applicable en raison de deadlines trop courtes. 
+
+#### Stack technique actuelle : Curieux et polyvalent, il essaie de se diversifier. 
+Stack web principalement composée de Nest.js, Next.js, mongoDB, node.js.
+Autre : C++, Rust. 
+
+#### La gestion de projet : 
+Place surtout occupée par les lead dev et scrum master selon ses expériences. 
+
+#### Journée type : 
+Journée de bureau de 9h à 17h. D'abord les réunions daily, puis 30m de communication (Slack, mails, ...). Puis travail selon la méthodologie Agile: assignation d'une tâche de deux jours maximum. Travil en méthode TDD (test-driven-development). Puis en fin de tâche soumet une pull request avec sa fonctionnalité. 
+
+#### Les soft skills : 
+- Aisance à l'oral
+- Sympathie
+- Rédaction propre et soignée
+- Anglais
+- Savoir être en réunion
+- Communication
+
+#### Désillusions et difficultées : 
+- La communication, l'aisance à l'oral
+- L'anglais
+- Difficulté à planifier ses tâches. 
+
+Finalement tout cela s'apprends vite. 
+
+#### Avantages et inconvénients du métier : 
+Positif: 
+- Travailler sur des projets passionants et challengeants.
+- La formation continue.
+- Le salaire
+Négatif:
+- La sédentarité. 
+
+#### Conseils : 
+
+Ne pas rester sur ses acquis et continuer de se former, d'être curieux. 
+Rendre un travail qualitatif et minutieux. 
+Se lancer en freelance après une expérience en entreprise. 
