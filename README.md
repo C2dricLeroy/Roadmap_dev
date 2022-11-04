@@ -152,3 +152,9 @@ Elle passe par une phase temporaire visant à obtenir une entreprise stable.
 Dans ce type d'entreprise, vous devez être capable de vous adaptez aux méthodologies actuel et aux nouvelles technologies. Nouvellement créer, elle recherchera des personnes autonomes, polyvalentes car elle manquera de personnel. Cependant, elle prendre soin de ces employés avec des horaires flexibles, des bureaux agréables, utilisant la méthodologie agile... 
 Les facteurs de succès sont associés au code durable, documenté et testé. 
 Elle aura une grande responsabilité dans la stratégie de marketing cherchant à améliorer sa productivité.
+
+#### Qu'est-ce que l'ESN et  le SSI ?
+l'ESN (Entreprise de service numérique) anciennement connu sous le nom SSI (Société de service en ingénierie informatique), apporte ses services dans le domaine informatique aux entreprises clientes, souvent sans matériel adequat et intervienne directement chez eux. 
+L'ESN propose différents services par exemple donner des conseils, faire une maintenance, intégrer un système etc. 
+
+Ce type d'entreprise embauche facilement des juniors spécialisées dans leur domaine avec une faible rémunération, pour travailler sur des missions spécifiques. Ils devront être multitâches et travailler sur plusieurs projets. Chacun pourra s'épanouir dans sa spécialité néanmoins ils auront peu d'évolution.
