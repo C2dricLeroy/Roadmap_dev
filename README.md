@@ -161,9 +161,15 @@ Ce type d'entreprise embauche facilement des juniors spécialisées dans leur do
 
 
 
+#### Qu'elles sont les attents dans les différents types d'entreprises pour ce rôles ?
 
+#### Quels sont les facteurs de succès dans ce type d'entreprises ?
 
+#### Comment est organisé une journée type d'entreprise ?
 
+#### Quelles sont les spécifités de type de structure dans votre quotidien comparé aux types d'entreprise ?
+
+## Interview d'un développeur 
 
 
 
