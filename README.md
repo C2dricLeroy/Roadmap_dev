@@ -29,7 +29,7 @@ Le rôle de développeur back-end est plus ou moins large, il peut s'occuper de 
 - Gestion et développement d'API.
 - Gestion de bases de données : traitement, stockage...
 - Trouver et fixer les bugs.
-- Optimisation des performences générales.
+- Optimisation des performances générales.
 - Sécurisations.
 
 Les rôles et missions du développeur back-end sont donc très large, cela peut découler d'une simple mission de "codeur", comme des tâches plus poussées.
@@ -38,38 +38,51 @@ Si dans le cas où un architecte développeur n'est pas présent, il peut propos
 
 Un développeur front-end est un programmeur informatique qui code et crée les éléments visuels d’un logiciel, d’une application ou d’un site web.
 Il crée des composants / fonctionnalités informatiques directement visibles et accessibles par l’utilisateur final ou le client.
-Cette profession vise le developpement uniquement sur la partie client, elle sera directement telechargeable par les utilisateurs.
+Cette profession vise le développement uniquement sur la partie client, elle sera directement téléchargeable par les utilisateurs.
+
+Ces deux roles ne ce limites pas seulement à la prise de decision et au développement / gestions d'application, il est probable qu'il devra participer à des réunions avec des clients ou avec les différents développeurs du projet.
+Le principe est de faire avancer le projet en fonction des besoins du client, de la demande du projet, et de l'équipe.
+Savoir jauger ses capacités et celles de son équipe est un point important pour un développeur.
 
 
 ### Competences et Outils
 
 
-Les comptences et outils sont intimement lie, l'utilisation de certain outils demenderons des competences specifique comme l'utilisation de framework specifique.
+Les competence et outils sont intimement liés, l'utilisation de certains outils demanderons des competences spécifique comme l'utilisation d'un framework.
 
 Listes des competences / outils : 
 
-- Langages lie a l'entreprise.
+- Langages liés à l'entreprise.
 - Connaissances concernant les bases de donnees.
 - Gestion de collaboration de code avec GIT
-- Maitrise des regles general de la securite 
-- Connaissance lie au framework lie a l'entreprise
+- Maitrise des règles general de la sécurité.
+- Connaissance lie au framework lie à l'entreprise
 - Connaissance des software les plus communs sur linux et windows
 - Bon niveau d'anglais technique
 - Etre autonome
 
 
-
-
 Listes des soft skills : 
 
-- Rigeur
+- Rigueur
 - Sens de l'organisation
 - Adaptation
 - Esprit d'équipe
 - Gestion du temps et du stress
 - Curiosité
 
-Ces soft skills et hard skills s'applique pour beaucoup de métier dans le corp du développement, en occurrence, ici, pour les développeurs Back-end et Front-end.
+Ces soft skills et hard skills s'applique pour beaucoup de métier dans le corp du développement, en l'occurrence, ici, pour les développeurs Back-end et Front-end.
+
+Pour être un peu plus précis dans la liste des compétences qu'un développeur Front-end doit posséder, voici une description plus détaillée.
+Celui-ci doit avoir une compréhension solide des langages de programmations sur lesquelles il va travailler ou avec les supports qu'il va utiliser, en rapport aves les sites web.
+Il doit aussi avoir une bonne connaissance étendue et approfondie sur la conception web.
+Il doit avoir une certaine approche sur les logiciels d'éditions d'images.
+Il doit savoir communiquer et écouter le client pour concevoir un site web qui lui correspond.
+Il doit aussi avoir une bonne connaissance des langages de programmation côté serveur, s'il n'a pas une bonne comprehension de ce qui se passe du côté serveur, il ne pourra produire quelque chose de qualitatif.
+
+Nous pouvons nous referer à la roadmap du développeur Front-end et Back-end pour avoir une idée plus précise des compétences qu'il doit posséder pour devenir un développeur confirmer dans son domaine : 
+- [RoadMap Font](https://roadmap.sh/frontend).
+- [RoadMap Back](https://roadmap.sh/backend).
 
 
 ### Avec quelle personne est-on amené à travailler ?
@@ -82,22 +95,27 @@ Voici une liste non exhaustive des métiers en contacte avec des développeurs :
 **Développeur Back** : 
 
 - Managers
+- Lead Développeur
 - Architectes
-- Designers
+- UX et/ou UI Designer / Designer
 - Chercheurs
 - IT sécurity
 - Développeur Front
-- Product Owner
-
-**Développeur Front** : 
-
-- UX et/ou UI Designer
-- Lead Développeur
-- Scrum Master
+- Développeur Back-end
 - Product Owner
 - CTO
-- Développeur Back
-- Architectes
+
+Description des métiers :
+
+- **Managers** : Le manager s'occupe de la gestion, de l'administration, de l'organisation et d'un service ou d'un projet.
+- **Architectes** : Les architectes ont pour objectifs de mettre en place les infrastructures et de maintenir le projet. C'est un développeur qui a une vision globale du projet. Ce développeur à aussi le choix des technologies adaptés à utiliser.
+- **UX et/ou UI Designer / Designer** : Les designers ont pour travail de créer des interfaces visuel pour les utilisateurs. Ils sont aussi chargés de la création de l'identité visuelle de l'entreprise.
+- **Chercheurs** : Les chercheurs sont chargés de la recherche et de l'innovation. Ils sont chargés de trouver des solutions pour améliorer les produits et les services.
+- **IT sécurity** : Les IT sécurity sont chargés de la sécurité informatique. Ils sont chargés de la sécurité des données et des systèmes informatiques.
+- **Développeur Front** : Le développeur Front est chargé de la partie visible d'un projet. Il est chargé de la partie client d'un projet.
+- **Développeur Back** : Le développeur Back est chargé de la partie non visible d'un projet. Il est chargé de la partie serveur d'un projet.
+- **Product Owner** : Le product owner est chargé de la gestion du projet. Il est chargé de la gestion du projet et de la communication avec le client.
+- **CTO** : Le CTO est chargé de la gestion de l'entreprise. Il est chargé de la gestion de l'entreprise et de la gestion des projets.
 
 
 ### Quelles sont les évolutions du métier ?
