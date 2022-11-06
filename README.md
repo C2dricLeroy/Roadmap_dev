@@ -379,10 +379,41 @@ Ne pas rester sur ses acquis et continuer de se former, d'être curieux.
 Rendre un travail qualitatif et minutieux.
 Se lancer en freelance après une expérience en entreprise.
 
+### Conclusion : 
+Cette interview riche de renseignements confirme les éléments apportés au long de ce guide. 
+
+## L'éthique
+
+Désormais équipés pour affronter la vie professionelle, un dernier questionnement est nécessaire pour envisager notre parcours professionnel en tant que développeur. 
+Ce questionnement porte le nom d'éthique, mais qu'est-ce que ce terme? 
+
+L'éthique est devenue une discipline philosophique au 18è siècle avec sa définition par Rousseau, puis avec Kant. Plus tôt, l'éthique est très lié à la morale. Avec ces philosophes elle s'en émancipe pour devenir plus technique. Kant fait de l'éthique un problème duel au coeur duquel la méthodologie de récolte des informations concernant les bénéfices et risques devient capital. 
+
+Pour résumer, l'éthique peut être considéré comme une règle constituée par notre morale. Cette règle régit nos comportements quotidiens dans des situations de dilemmes. Notre éthique nous aide alors à décider comment agir dans des situations données. Elle peut être considérée comme la partie technique de la morale. Cette éthique soumises aux situations réelle constitue ce que l'on appelle éthique appliquée. 
+
+Loin d'être une simple expérience philosophique, l'éthique appliquée se rencontre au quotidien. De simples questions comme "faut-il interdire la publicité" ou "Faut-il boycotter?" contienne des réflexions éthiques. 
+
+Différents protocoles d'aides à la décision ont été définis, nous pouvons cependant les résumer grossièrement par ces étapes: 
+- Se questionner sur les bénéfices et risques de la situation
+- Aller au delà du simple conflit moral en analysant profondément la situation à l'aide de questions empiriques
+- Se questionner sur notre champ d'action et ses conséquences directes
+- Faire preuve d'introspection et comprendre nos valeurs et engagements moraux
+
+### L'éthique du développeur 
+
+Toute cette théorie peut facilement être appliquée au quotidien d'un développeur. PLusieurs situations peuvent être sources de questionnements éthiques par les dilemmes qu'elles soulèvent: 
+- Que faire d'un emploi de développeur pour une entreprise liée à la pornographie ? 
+- Que faire d'une mission de conception d'interface de pilotage de drônes d'attaques ? 
+- Que faire en cas de contact par une mouvance sectaire afin de réaliser leur site web ? 
+
+Chacune de ces situations mets directement en jeu notre morale et donc notre éthique. Les dilemmes soulevés sont importants et méritent d'être réfléchis personnellement. 
+Toutefois, la discussion en équipe autour d'une mission peut conduire à pousser nos réflexions. 
+
+
 Sources :
 
 - https://www.researchgate.net/publication/345629105_Avoir_des_competences_ou_etre_competent_L'approche_enactive_comme_alternative_a_l'approche_par_competences
 - https://www.cnrtl.fr/
 - https://opensourcing.com/
 - https://scoptalent.com/intelligence-artificielle-recrutement/
-
+- https://www.enseignerlethique.be/content/banque-de-cas-%C3%A9thiques#methode
