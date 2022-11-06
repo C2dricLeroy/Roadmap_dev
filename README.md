@@ -259,6 +259,37 @@ Ces tests sont également utilisés pour évaluer les compétences actuelles des
 
 ### Comment peut-on travailler son personal branding ?
 
+
+## Comment postuler ? 
+
+Ces considérations faites sur la façon dont est construit le recrutement et la meilleure façon de s'y préparer, il nous faut encore trouver la meilleure façon de postuler. 
+Il existe différentes façons de postuler comme: 
+- La cooptation : Il s'agit de mobiliser son entourage et ses relations afin qu'un employé en poste puisse porter notre candidature auprès de son entreprise. Cette méthode étant spécifique à chaque personne, nous ne la développerons pas plus ici.
+- La candidature spontannée : La candidature spontanée est l'initiative de postuler dans une entreprise en dehors des potentielles offres d'emploi émise par celle-ci. Il est important dans ce cadre de se rappeler que notre candidature ne réponds pas à un besoin de l'entreprise et qu'il est donc très important de créer ce besoin chez l'employeur. Les moyens pour postuler (C.V., lettre de motivation) doivent donc être très travaillés et l'entreprise cible bien choisie. Le profil présenté doit être soigné et le personnal branding travaillé. La relance est également de mise. 
+- Postuler aux offres : C'est le moyen privilégié en France pour accéder aux emplois. C'est ce moyen que nous décidons de développer. 
+    
+
+### Sur quelles plateformes postuler ? 
+
+Il n'est plus nécessaire aujourd'hui d'éplucher les annonces du journal afin de trouver l'annonce recherchée. Il n'est pas non plus possible pour un junior d'attendre passivement que les recruteurs nous proposent un emploi. 
+
+Depuis l'arrivée d'Internet, nombreuses sont les plateformes qui regroupent les offres d'emplois. 
+Certaines de ces plateformes sont des plateformes généralistes (telles que Indeed,Monster, Jobijoba, keljob, ... ). L'avantage est de pouvoir y trouver de très nombreuses offres. L'inconvénient est que celles-ci sont plus limitées pour des domaines spécifiques. 
+D'autres plateformes institutionnelles (pôle-emploi, sites des missions locales, un jeune une solution) sont également disponibles mais celles-ci sont souvent adaptées aux profils au faible niveau d'étude. 
+
+Il existe des plateformes spécialisées dans l'informatique comme maddyJobs, welovedevs, lesjeudis.com, chooseyourboss, ... Ces plateformes ont l'avantage d'être adaptées aux profils juniors comme seniors. La plupart des entreprises du numérique y sont présentes. 
+
+Dans la majorité des cas, il est important de garder en tête qu'il va falloir multiplier les candidatures aux différentes entreprises et de se préparer aux refus. Afin de gérer au mieux ces candidatures, des outils ont vu le jour: 
+- Excel : Ce n'est pas un outil dédié, mais il est tout à fait possible avec un tableur de construire un tableau recensant les offres auxquelles on a postulé, les réponses obtenues, les relances, ... 
+- Les outils de suivi de candidature : De nombreuses solutions gratuites ou payantes existent afin de suivre les candidatures. Certaines offrent la possibilité de lier ses comptes d'autres plateformes afin de s'actualiser. Différentes plateformes telles que Trello, Notion, Google Drive peuvent être utilisée à ces fins. Nous conseillons particulièrement Notion pour sa facilité d'utilisation, sa centralisation des informations, et la solution complète proposée. 
+  Nous ne détaillons ici pas les différents outils permettant de créer un template mail, organiser ses rendez-vous
+
+#### Exemple de suivi de candidature
+Prenons pour exemple une candidature pour un premier poste de développeur web junior (spécialisation back-end). 
+
+Avec Notion : 
+![suivi](img/suivi.png)
+
 ## Interview d'un développeur
 
 ### Préparation de l'interview :
@@ -352,4 +383,6 @@ Sources :
 
 - https://www.researchgate.net/publication/345629105_Avoir_des_competences_ou_etre_competent_L'approche_enactive_comme_alternative_a_l'approche_par_competences
 - https://www.cnrtl.fr/
--
+- https://opensourcing.com/
+- https://scoptalent.com/intelligence-artificielle-recrutement/
+
