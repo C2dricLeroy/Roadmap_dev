@@ -148,7 +148,7 @@ L'ESN propose différents services par exemple donner des conseils, faire une ma
 
 Ce type d'entreprise embauche facilement des juniors spécialisées dans leur domaine avec une faible rémunération, pour travailler sur des missions spécifiques. Ils devront être multitâches et travailler sur plusieurs projets. Chacun pourra s'épanouir dans sa spécialité néanmoins ils auront peu d'évolution.
 
-#### Qu'elles sont les attents dans les différents types d'entreprises pour ce rôles ?
+#### Qu'elles sont les attentes dans les différents types d'entreprises pour ce rôles ?
 
 #### Quels sont les facteurs de succès dans ce type d'entreprises ?
 
@@ -158,7 +158,54 @@ Ce type d'entreprise embauche facilement des juniors spécialisées dans leur do
 
 ## Le recrutement :
 
-#### Qui est impliqué dans le processus de recrutement ?
+### Quelles sont les étapes du processus de recrutement ? 
+
+Le recrutement est crucial dans la vie d'une entreprise. En effet, un bon recrutement a pour but doit jouer avec le but d'aggrandir l'entreprise avec de nouveaux collaborateurs tout en s'efforcant de renforcer les équipes déjà en place par l'intégration d'une personnalité s'intégrant dans leur équipe. 
+
+Il est possible de tirer différentes étapes dans le recrutement: 
+1) **Rédaction de la fiche de poste** : En amont du recrutement, il est nécessaire de faire un point sur les besoins de ses équipes. Cela peut passer par différents moyens : entretetiens avec les collaborateurs actuels, les informations recueillies lors des entretiens annuels, les besoins remontés par les Lead Devs ou Scrum Masters, ... Cette récolte d'informations concernant les équipes en place permet de tracer un poste recherché. Une liste des tâches doit être inscrite dans une fiche de poste afin de décrire les compétences nécessaires au futur employé. Ces étapes sont cruciales afin de définir le profil recherché. 
+2) **Rédaction de l'annonce** : L'employeur peut désormais rédiger l'offre d'emploi. Cette annonce comporte les pricnipales caractéristiques que l'entreprise veut montrer. Des inforamtions peuvent y être trouvées telles que l'identité visuelle (Elements visuels pouvant nous apporter des inforamtions, modernité ?), l'identité de communication (l'annonce est-elle rédigée à la premiere personne? l'offre s'appuie t'elle sur une personnalité recherchée plutôt que sur des compètences précises?), le profil de RH peut également être deviné (l'annonce est-elle impérative ?), ... 
+3) **La diffusion de l'annonce** : Une fois l'annonce rédigée, le recruteur choisit également avec précaution les canaux de diffusion. En moyenne, les recruteurs n'utilisent que 3,1 canaux de diffusion. En effet, avec une stratégie bien définie et des canaux bien choisis, il n'a pas besoin de plus! 
+4) **Pré-selection**: Les recruteurs sont limités en temps pour connaître les profils de leur candidats. En amont de leur rencontre, ils réfléchissent donc aux informations qui les intéressent le plus et à la façon de les récolter. De plus, devant l'afflux de candidats, certaines entreprises peuvent choisir des IA et des logiciels (comme ATS pour Applicant Tracking System) afin de "trier" et maximiser leurs chances de trouver les meilleurs candidats. (Voir Les outils pour un meilleur sourcing)
+5) **Les entretiens d'embauches** : Partie la plus redoutée par les candidats, les entretiens font également partie intégrante de la stratégie des recruteurs. Le temps étant limité, une fois de plus les outils et les conditions de passations sont réfléchies. Nous étudierons les tenants et aboutissants des différents types d'entretien ainsi que des différents types de tests.
+6) **Choix et administratif** : Une fois les candidatures examinées et les entretiens effectués, le recruteur effectue le choix du futur collaborateur dans lesquelles il peut être aidé et conseillé par d'autres membres de l'équipe, puis les démarches administratives. 
+7) **Arrivée du nouvel employé** : Le nouveau collaborateur peut désormais être intégré à l'équipe. 
+
+Nous pouvons dès à présent remarquer que la majorité des étapes ne sont pas visible au candidat. 
+
+### Les outils pour un meilleur sourcing
+
+#### Le sourcing
+
+Le sourcing c’est le processus de recherche pour le recrutement. Il représente environ 80% du temps des recruteurs, d’où son importance et le travail profond des recruteurs pour maximiser ses performances. 
+Le sourcing peut donc être considéré comme faisant partie intégrante du recrutement. Littéralement, il signifie même l'"approvisionnement", ce qui traduit bien cette idée de constituer une provision de potentiels candidats adaptés aux besoins de l'entreprise. 
+
+![le sourcing](img/methode-sourcing-digital.jpg)
+
+Pour résumer, le sourcing est donc la définition d'une stratégie de recrutement destinée à simplifier le processus de recrutement et améliorer l’efficacité de celui-ci. Le but est de trouver les meilleurs profils pour répondre aux besoins de l’entreprise. 
+Le sourcing est donc à la base des recrutements et sa compréhension démontre que le choix des canaux de recrutements, des personnes en charge des entretiens, des types d’entretiens, des potentiels tests techniques sont destinés à la recherche du potentiel d’employabilité des candidats. 
+Ces enjeux en tête, nous pouvons désormais étudier comment “hacker” ces processus de recrutement afin de placer notre profil en avant.
+
+#### Les outils utilisés: 
+
+Dans le but d’améliorer leurs stratégies de sourcing et devant l’afflux de candidats, les entreprises utilisent désormais de nouvelles méthodes de tri. 
+
+##### L'intelligence artificielle 
+Le but de l’intelligence artificielle appliquée au recrutement est de sélectionner parmi une liste les meilleurs candidats pour une offre donnée. 
+- **Le recrutement augmenté**: Analyser le profil d’un candidat puis le faire correspondre à une offre. C’est une sorte de matching entre une candidature reçue et la liste des offres de l’entreprise. Cela peut permettre à un candidat d’être redirigé vers une offre d’emploi plus adaptée à son profil car celui-ci ne l’avait par exemple pas vue. Le bénéfice pour l’employeur est un gain considérable de temps et une meilleure correspondance des profils avec les offres d’emploi. 
+- **Le recrutement prédictif** : Le recrutement prédictif a pour but d’anticiper et de prévoir la capacité d’un profil à correspondre avec une offre donnée. L’IA effectue une évaluation prévisionnelle des capacités du candidat à répondre aux besoins de l’emploi. 
+- **Le recrutement de personnalité** : A la différence du recrutement prédictif, ce ne sont pas les compétences techniques qui sont évaluées mais plutôt les soft skills, le savoir être, et la capacité pour le candidat de s’engager dans l’entreprise. 
+
+##### Les algorithmes: 
+Plus triviaux que l'IA, les algorithmes peuvent sortir un classement des candidats selon un score calculé à partir de données arbitraires (score de compétence, mots clés du C.V., ...). Certains algorithmes sont également développé dans le but d'analyser des critères tels que le niveau de vocabulaire, ou le langage corporel. 
+
+##### Les "bots" ou robots d'aide au recrutement
+D'autres robots existent et prennent la forme de robots de chat. Ceux-ci permettent de répondre aux questions des potentiels candidats sur l'entreprise, ou encore à des questions plus délicates à aborder en entretien. 
+
+
+Ces outils peuvent faire peur aux candidats car le tri des candidats est effectué selon des critères arbitraires ne laissant que peu de place à l’évaluation des qualités personnelles du candidat et aux profils divers. Cependant, il faut retenir que les recruteurs connaissent les limites de ces outils et que les entreprises ne recevant que peu d’offres n’ont que peu d’intérêt à utiliser ces outils qui risquent de ne pas favoriser les bien-êtres en entreprise. Pour aller plus loin, l’utilisation des outils liés à l’IA peut même être perçue comme permettant aux employeurs de consacrer plus de temps aux tâches à valeur humaine ajoutée en leur permettant une économie de temps sur les tâches de tri des candidatures.
+
+### Qui est impliqué dans le processus de recrutement ?
 
 Cela dépend de la taille et du type de la structure.
 Dans les petites structures il n'y a dans la plupart du temps pas de service qui gère le recrutement, par conséquent se sont les employées qui s'en charge.
@@ -168,11 +215,11 @@ En ce qui concerne la tenue des entretiens, se sont les RH qui s'occuperont des 
 
 Certaines entreprises disposant de budgets plus importants peuvent demander à un cabinet de recrutement de les aider dans leurs démarches.
 
-#### Quels peuvent être les délais d’un recrutement ?
+### Quels peuvent être les délais d’un recrutement ?
 
 Le delais peut être variable selon les entreprises. De récentes études indiquent de la durée moyenne d'un recrutement se situe entre 25 et 40 jours.
 
-#### Quels sont les principaux types de tests techniques ?
+### Quels sont les principaux types de tests techniques ?
 
 - QCM : Simple test à choix multiples, il s'agit du test le plus fréquent.
 
@@ -185,14 +232,14 @@ Le delais peut être variable selon les entreprises. De récentes études indiqu
   Plus complet que les autres tests, il consiste à réaliser une petite application ou d'un jeux.
   Dans la plupart des cas, les candidats peuvent le faire depuis chez eux.
 
-#### Qu'allez-vous devoir travailler pour réussir ces tests ?
+### Qu'allez-vous devoir travailler pour réussir ces tests ?
 
 L'utilisation quotidienne d'une ou plusieurs plateformes de code en ligne telles que CodeWars, CodinGame peut être un bon entrainement.
 
 Revoir régulièrement les bases en réalisant des exercices.
 Par exemple, le test du FizzBuzz est un bon entrainement pour travailler sa logique.
 
-#### Que recherche-t-on dans l'élaboration de ces tests ? Qui recherche-t-on ?
+### Que recherche-t-on dans l'élaboration de ces tests ? Qui recherche-t-on ?
 
 Pour les entreprises ces tests sont un excellent moyen de voir les candidats en condition de travail avant une possible embauche.
 Permet aussi de voir comment les candidats se comportent face au stress et comment ils y font face.
@@ -202,15 +249,15 @@ Ces tests sont également utilisés pour évaluer les compétences actuelles des
 
 ## E-Réputation :
 
-#### C'est quoi la e-réputation ? C'est quoi l'identité ? C'est quoi la réputation ?
+### C'est quoi la e-réputation ? C'est quoi l'identité ? C'est quoi la réputation ?
 
-#### Que dit Google sur vous ?
+### Que dit Google sur vous ?
 
-#### Quelles traces est-il possible de laisser en ligne ?
+### Quelles traces est-il possible de laisser en ligne ?
 
-#### Définissez le terme de "personnal branding"
+### Définissez le terme de "personnal branding"
 
-#### Comment peut-on travailler son personal branding ?
+### Comment peut-on travailler son personal branding ?
 
 ## Interview d'un développeur
 
@@ -266,7 +313,7 @@ Place surtout occupée par les lead dev et scrum master selon ses expériences.
 
 #### Journée type :
 
-Journée de bureau de 9h à 17h. D'abord les réunions daily, puis 30m de communication (Slack, mails, ...). Puis travail selon la méthodologie Agile: assignation d'une tâche de deux jours maximum. Travil en méthode TDD (test-driven-development). Puis en fin de tâche soumet une pull request avec sa fonctionnalité.
+Journée de bureau de 9h à 17h. D'abord les réunions daily, puis 30m de communication (Slack, mails, ...). Puis travail selon la méthodologie Agile: assignation d'une tâche de deux jours maximum. Travail en méthode TDD (test-driven-development). Puis en fin de tâche soumet une pull request avec sa fonctionnalité.
 
 #### Les soft skills :
 
