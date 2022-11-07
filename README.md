@@ -32,30 +32,30 @@ Le rôle de développeur back-end est plus ou moins large, il peut s'occuper de 
 
 Les rôles et missions du développeur back-end sont donc très large, cela peut découler d'une simple mission de "codeur", comme des tâches plus poussées.
 Il est aussi possible que le développeur back-end s'apparente à un rôle de décisionnaire dans les choix techniques.
-Si dans le cas où un architecte développeur n'est pas présent, il peut proposer et réfléchir à la mise en place de l'infrastructure ou à améliorer celle déjà en place. Il devra créer un environnement adaptés au besoin des projets.
+Si dans le cas où un architecte développeur n'est pas présent, il peut proposer et réfléchir à la mise en place de l'infrastructure ou à améliorer celle déjà en place. Il devra créer un environnement adapté aux besoins des projets.
 
 Un développeur front-end est un programmeur informatique qui code et crée les éléments visuels d’un logiciel, d’une application ou d’un site web.
 Il crée des composants / fonctionnalités informatiques directement visibles et accessibles par l’utilisateur final ou le client.
 Cette profession vise le développement uniquement sur la partie client, elle sera directement téléchargeable par les utilisateurs.
 
-Ces deux roles ne ce limites pas seulement à la prise de decision et au développement / gestions d'application, il est probable qu'il devra participer à des réunions avec des clients ou avec les différents développeurs du projet.
+Ces deux rôles ne se limitent pas seulement à la prise de decision et au développement / gestion d'applications, il est probable qu'ils devront tout deux participer à des réunions avec des clients ou avec les différents développeurs du projet.
 Le principe est de faire avancer le projet en fonction des besoins du client, de la demande du projet, et de l'équipe.
 Savoir jauger ses capacités et celles de son équipe est un point important pour un développeur.
 
 ### Competences et Outils
 
 
-Les comptences et outils sont intimement lie, l'utilisation de certain outils demenderons des competences specifique comme l'utilisation de framework specifique.
+Les compétences et outils sont intimement liés, l'utilisation de certain outils demende des compétences spécifiques comme l'utilisation de _framework_ spécifiques.
 
-Listes des competences / outils :
+Listes des compétences / outils :
 
 - Langages liés à l'entreprise.
-- Connaissances concernant les bases de donnees.
+- Connaissances concernant les bases de données.
 - Gestion de collaboration de code avec GIT
 
-- Maitrise des regles general de la securite
-- Connaissance lie au framework lie a l'entreprise
-- Connaissance des software les plus communs sur linux et windows
+- Maitrise des règles générales de la sécurité
+- Connaissances liées aux framework liés à l'entreprise
+- Connaissance des _software_ les plus communs sur linux et windows
 - Bon niveau d'anglais technique
 - Etre autonome
 
@@ -69,22 +69,22 @@ Listes des soft skills :
 - Gestion du temps et du stress
 - Curiosité
 
-Ces soft skills et hard skills s'applique pour beaucoup de métier dans le corp du développement, en l'occurrence, ici, pour les développeurs Back-end et Front-end.
+Ces soft skills et hard skills s'appliquent pour beaucoup de métier dans le milieu du développement, en l'occurrence, ici, pour les développeurs Back-end et Front-end.
 
 Pour être un peu plus précis dans la liste des compétences qu'un développeur Front-end doit posséder, voici une description plus détaillée.
-Celui-ci doit avoir une compréhension solide des langages de programmations sur lesquelles il va travailler ou avec les supports qu'il va utiliser, en rapport aves les sites web.
+Celui-ci doit avoir une compréhension solide des langages de programmation sur lesquels il va travailler ou avec les supports qu'il va utiliser, en rapport avec les sites web.
 Il doit aussi avoir une bonne connaissance étendue et approfondie sur la conception web.
-Il doit avoir une certaine approche sur les logiciels d'éditions d'images.
+Il doit avoir une certaine approche sur les logiciels d'édition d'images.
 Il doit savoir communiquer et écouter le client pour concevoir un site web qui lui correspond.
-Il doit aussi avoir une bonne connaissance des langages de programmation côté serveur, s'il n'a pas une bonne comprehension de ce qui se passe du côté serveur, il ne pourra produire quelque chose de qualitatif.
+Il doit aussi avoir une bonne connaissance des langages de programmation côté serveur, s'il n'a pas une bonne compréhension de ce qui se passe du côté serveur, il ne pourra produire quelque chose de qualitatif.
 
-Nous pouvons nous referer à la roadmap du développeur Front-end et Back-end pour avoir une idée plus précise des compétences qu'il doit posséder pour devenir un développeur confirmer dans son domaine : 
+Nous pouvons nous référer à la roadmap du développeur Front-end et Back-end pour avoir une idée plus précise des compétences qu'il doit posséder pour devenir un développeur confirmé dans son domaine : 
 - [RoadMap Font](https://roadmap.sh/frontend).
 - [RoadMap Back](https://roadmap.sh/backend).
 
 ### Avec quelle personne est-on amené à travailler ?
 
-Les développeurs Front et Back-end est amené plus ou moin à travailler avec la même personne, la communication avec les différentes équipes est mot d'ordre en tant que développeur.
+Les développeurs Front et Back-end est amené plus ou moins à travailler avec la même personne, la communication avec les différentes équipes est mot d'ordre en tant que développeur.
 
 Voici une liste non exhaustive des métiers en contacte avec des développeurs :
 
@@ -112,9 +112,9 @@ Description des métiers :
 
 - **Managers** : Le manager s'occupe de la gestion, de l'administration, de l'organisation et d'un service ou d'un projet.
 - **Architectes** : Les architectes ont pour objectifs de mettre en place les infrastructures et de maintenir le projet. C'est un développeur qui a une vision globale du projet. Ce développeur à aussi le choix des technologies adaptés à utiliser.
-- **UX et/ou UI Designer / Designer** : Les designers ont pour travail de créer des interfaces visuel pour les utilisateurs. Ils sont aussi chargés de la création de l'identité visuelle de l'entreprise.
+- **UX et/ou UI Designer / Designer** : Les designers ont pour travail de créer des interfaces visuelles pour les utilisateurs. Ils sont aussi chargés de la création de l'identité visuelle de l'entreprise.
 - **Chercheurs** : Les chercheurs sont chargés de la recherche et de l'innovation. Ils sont chargés de trouver des solutions pour améliorer les produits et les services.
-- **IT sécurity** : Les IT sécurity sont chargés de la sécurité informatique. Ils sont chargés de la sécurité des données et des systèmes informatiques.
+- **IT sécurity** : Les équipes en IT sécurity sont chargés de la sécurité informatique. Ils sont chargés de la sécurité des données et des systèmes informatiques.
 - **Développeur Front** : Le développeur Front est chargé de la partie visible d'un projet. Il est chargé de la partie client d'un projet.
 - **Développeur Back** : Le développeur Back est chargé de la partie non visible d'un projet. Il est chargé de la partie serveur d'un projet.
 - **Product Owner** : Le product owner est chargé de la gestion du projet. Il est chargé de la gestion du projet et de la communication avec le client.
@@ -122,7 +122,7 @@ Description des métiers :
 
 ### Quelles sont les évolutions du métier ?
 
-Les différents métiers si dessus peuvent devenir une évolution de carrière pour certain, par exemple les développeurs peuvent être amené à devenir Lead Développeur et / ou Architecte Développeur par la suite.
+Les différents métiers ci-dessus peuvent devenir une évolution de carrière pour certain, par exemple les développeurs peuvent être amené à devenir Lead Développeur et / ou Architecte Développeur par la suite.
 
 Voici la liste des évolutions pour les métiers de développeur front-end et back-end :
 
@@ -145,13 +145,13 @@ Voici la liste des évolutions pour les métiers de développeur front-end et ba
 - Architecture
 - Analytic Guru
 
-Différentes réorientations sont aussi possibles tout en restant dans le même corp de métier, ils ne sont pas précisés dans ces listes.
+Différentes réorientations sont aussi possibles tout en restant dans le même corps de métier, ils ne sont pas précisés dans ces listes.
 
 ### La différence entre un Software Engineer et un Développeur ?
 
-En premier lieu ce qu'un Software Engineer (Ingénieur Logiciel) et un Développeur, l’Ingénieur logiciel est considéré comme le niveau supérieur d’un Développeur. Il va s’occuper globalement du projet, il doit pouvoir changer de casquette entre développeur et ingénieur logiciel, l’ingénieur sera principalement orienté sur la conception de la solution logicielle (mise en place de l’infrastructure, choix des technologies…), il va pouvoir coordonner les équipes et la collaborations entre les équipes et dans les équipes, il a une connotation de manager. Celui-ci doit gérer les attentes du clients et les problèmes rencontrés lors du développement du projet.
+En premier lieu un Software Engineer (Ingénieur Logiciel) est un Développeur, mais l’Ingénieur logiciel est considéré comme le niveau supérieur d’un Développeur. Il va s’occuper globalement du projet, il doit pouvoir changer de casquette entre développeur et ingénieur logiciel, l’ingénieur sera principalement orienté sur la conception de la solution logicielle (mise en place de l’infrastructure, choix des technologies…), il va pouvoir coordonner les équipes et la collaboration entre les équipes et dans les équipes, il a une connotation de manager. Celui-ci doit gérer les attentes du clients et les problèmes rencontrés lors du développement du projet.
 
-Le développeur à pour responsabilité de créer, maintenir, tester le projet. Il est possible qu’il doive se charger de déployer son application. Un développeur peut travailler en collaboration avec d’autre développeur ou seul (freelancing), contrairement au rôle d’ingénieur logiciel.
+Le développeur a pour responsabilité de créer, maintenir, tester le projet. Il est possible qu’il doive se charger de déployer son application. Un développeur peut travailler en collaboration avec d’autre développeur ou seul (freelancing), contrairement au rôle d’ingénieur logiciel.
 
 Celui-ci à le choix de se spécialiser dans différents domaines ou technologies, l’ingénieur logiciel se doit d’être plus généraliste quant au choix de ses domaines, car il sera amené à gérer différents domaines et technologies.
 
@@ -167,8 +167,8 @@ Grâce à ses compétences, on peut devenir compétent, à force de pratique, en
 Une startup est une nouvelle entreprise avec un potentiel croissant. Ayant pour objectif de dominer le marché dans lequel est son secteur d'activité.
 Elle passe par une phase temporaire visant à obtenir une entreprise stable.
 
-Dans ce type d'entreprise, vous devez être capable de vous adaptez aux méthodologies actuel et aux nouvelles technologies. Nouvellement créer, elle recherchera des personnes autonomes, polyvalentes car elle manquera de personnel. Cependant, elle prendre soin de ces employés avec des horaires flexibles, des bureaux agréables, utilisant la méthodologie agile...
-Les facteurs de succès sont associés au code durable, documenté et testé.
+Dans ce type d'entreprise, vous devez être capable de vous adaptez aux méthodologies actuelles et aux nouvelles technologies. Nouvellement crée, elle recherchera des personnes autonomes, polyvalentes car elle sera souvent limitée en personnel. Cependant, elle prendra soin de ces employés avec des horaires flexibles, des bureaux agréables, utilisant la méthodologie agile... tout cela lié aux méthodes de management les plus récentes. 
+Les facteurs de succès pour un développeur sont associés au code durable, documenté et testé.
 Elle aura une grande responsabilité dans la stratégie de marketing cherchant à améliorer sa productivité.
 
 ### Qu'est-ce que l'ESN et le SSI ?
@@ -176,7 +176,7 @@ Elle aura une grande responsabilité dans la stratégie de marketing cherchant �
 l'ESN (Entreprise de service numérique) anciennement connu sous le nom SSI (Société de service en ingénierie informatique), apporte ses services dans le domaine informatique aux entreprises clientes, souvent sans matériel adequat et intervienne directement chez eux.
 L'ESN propose différents services par exemple donner des conseils, faire une maintenance, intégrer un système etc.
 
-Ce type d'entreprise embauche facilement des juniors spécialisées dans leur domaine avec une faible rémunération, pour travailler sur des missions spécifiques. Ils devront être multitâches et travailler sur plusieurs projets. Chacun pourra s'épanouir dans sa spécialité néanmoins ils auront peu d'évolution.
+Ce type d'entreprise embauche facilement des juniors spécialisées dans leur domaine avec une faible rémunération, pour travailler sur des missions spécifiques. Ils devront être multitâches et travailler sur plusieurs projets. Chacun pourra s'épanouir dans sa spécialité, néanmoins il existe moins de perspective d'évolution.
 
 #### Qu'elles sont les attentes dans les différents types d'entreprises pour ce rôles ?
 
@@ -238,10 +238,10 @@ Ces outils peuvent faire peur aux candidats car le tri des candidats est effectu
 ### Qui est impliqué dans le processus de recrutement ?
 
 Cela dépend de la taille et du type de la structure.
-Dans les petites structures il n'y a dans la plupart du temps pas de service qui gère le recrutement, par conséquent se sont les employées qui s'en charge.
+Dans les petites structures il n'y a dans la plupart du temps pas de service qui gère le recrutement, par conséquent se sont les employés qui s'en chargent.
 
 Dans les moyennes et grandes structures c'est une équipe RH qui s'occupera du recrutement.
-En ce qui concerne la tenue des entretiens, se sont les RH qui s'occuperont des entretiens. En cas de processus de recrutement plus long, plusieurs entretiens peuvent êtres organisés. Dans un tel cas des encadrant techniques ou des développeur senior seront suceptible de participer au processus.
+En ce qui concerne la tenue des entretiens, se sont les RH qui s'occuperont des entretiens. En cas de processus de recrutement plus long, plusieurs entretiens peuvent êtres organisés. Dans un tel cas des encadrants techniques ou des développeurs senior seront suceptibles de participer au processus.
 
 Certaines entreprises disposant de budgets plus importants peuvent demander à un cabinet de recrutement de les aider dans leurs démarches.
 
@@ -255,11 +255,11 @@ Le delais peut être variable selon les entreprises. De récentes études indiqu
 
 - Test de code écrit : Généralement sur papier.
 
-- Test d’algorithmie / code en ligne : Test à complexité variable devent être réalisé dans delai donné.
-  L'utilisation de plateforme en ligne comme CodinGame sont très fréquentes.
+- Test d’algorithmie / code en ligne : Test à complexité variable devant être réalisé dans un delai donné.
+  L'utilisation de plateformes en ligne comme CodinGame sont très fréquentes.
 
 - Exercice de mise en situation :
-  Plus complet que les autres tests, il consiste à réaliser une petite application ou d'un jeux.
+  Plus complet que les autres tests, il consiste à réaliser une petite application ou un jeu.
   Dans la plupart des cas, les candidats peuvent le faire depuis chez eux.
 
 ### Qu'allez-vous devoir travailler pour réussir ces tests ?
@@ -267,7 +267,7 @@ Le delais peut être variable selon les entreprises. De récentes études indiqu
 L'utilisation quotidienne d'une ou plusieurs plateformes de code en ligne telles que CodeWars, CodinGame peut être un bon entrainement.
 
 Revoir régulièrement les bases en réalisant des exercices.
-Par exemple, le test du FizzBuzz est un bon entrainement pour travailler sa logique.
+Par exemple, le test du FizzBuzz est un bon entraînement pour travailler sa logique.
 
 ### Que recherche-t-on dans l'élaboration de ces tests ? Qui recherche-t-on ?
 
