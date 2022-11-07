@@ -44,7 +44,6 @@ Savoir jauger ses capacités et celles de son équipe est un point important pou
 
 ### Competences et Outils
 
-
 Les compétences et outils sont intimement liés, l'utilisation de certain outils demende des compétences spécifiques comme l'utilisation de _framework_ spécifiques.
 
 Listes des compétences / outils :
@@ -57,7 +56,6 @@ Listes des compétences / outils :
 - Connaissance des software les plus communs sur linux et windows
 - Bon niveau d'anglais technique
 - Etre autonome
-
 
 Listes des soft skills :
 
@@ -78,7 +76,8 @@ Pour être un peu plus précis dans la liste des compétences qu'un développeur
 - Communiquer et écouter le client pour concevoir un site web qui lui correspond.
 - Bonne connaissance des langages de programmation côté serveur
 
-Nous pouvons nous référer à la roadmap du développeur Front-end et Back-end pour avoir une idée plus précise des compétences qu'il doit posséder pour devenir un développeur confirmé dans son domaine : 
+Nous pouvons nous référer à la roadmap du développeur Front-end et Back-end pour avoir une idée plus précise des compétences qu'il doit posséder pour devenir un développeur confirmé dans son domaine :
+
 - [RoadMap Font](https://roadmap.sh/frontend).
 - [RoadMap Back](https://roadmap.sh/backend).
 
@@ -167,7 +166,7 @@ Grâce à ses compétences, on peut devenir compétent, à force de pratique, en
 Une startup est une nouvelle entreprise avec un potentiel croissant. Ayant pour objectif de dominer le marché dans lequel est son secteur d'activité.
 Elle passe par une phase temporaire visant à obtenir une entreprise stable.
 
-Dans ce type d'entreprise, vous devez être capable de vous adaptez aux méthodologies actuelles et aux nouvelles technologies. Nouvellement crée, elle recherchera des personnes autonomes, polyvalentes car elle sera souvent limitée en personnel. Cependant, elle prendra soin de ces employés avec des horaires flexibles, des bureaux agréables, utilisant la méthodologie agile... tout cela lié aux méthodes de management les plus récentes. 
+Dans ce type d'entreprise, vous devez être capable de vous adaptez aux méthodologies actuelles et aux nouvelles technologies. Nouvellement crée, elle recherchera des personnes autonomes, polyvalentes car elle sera souvent limitée en personnel. Cependant, elle prendra soin de ces employés avec des horaires flexibles, des bureaux agréables, utilisant la méthodologie agile... tout cela lié aux méthodes de management les plus récentes.
 Les facteurs de succès pour un développeur sont associés au code durable, documenté et testé.
 Elle aura une grande responsabilité dans la stratégie de marketing cherchant à améliorer sa productivité.
 
@@ -188,50 +187,54 @@ Ce type d'entreprise embauche facilement des juniors spécialisées dans leur do
 
 ## Le recrutement :
 
-### Quelles sont les étapes du processus de recrutement ? 
+### Quelles sont les étapes du processus de recrutement ?
 
-Le recrutement est crucial dans la vie d'une entreprise. En effet, un bon recrutement a pour but doit jouer avec le but d'aggrandir l'entreprise avec de nouveaux collaborateurs tout en s'efforcant de renforcer les équipes déjà en place par l'intégration d'une personnalité s'intégrant dans leur équipe. 
+Le recrutement est crucial dans la vie d'une entreprise. En effet, un bon recrutement a pour but doit jouer avec le but d'aggrandir l'entreprise avec de nouveaux collaborateurs tout en s'efforcant de renforcer les équipes déjà en place par l'intégration d'une personnalité s'intégrant dans leur équipe.
 
-Il est possible de tirer différentes étapes dans le recrutement: 
-1) **Rédaction de la fiche de poste** : En amont du recrutement, il est nécessaire de faire un point sur les besoins de ses équipes. Cela peut passer par différents moyens : entretetiens avec les collaborateurs actuels, les informations recueillies lors des entretiens annuels, les besoins remontés par les Lead Devs ou Scrum Masters, ... Cette récolte d'informations concernant les équipes en place permet de tracer un poste recherché. Une liste des tâches doit être inscrite dans une fiche de poste afin de décrire les compétences nécessaires au futur employé. Ces étapes sont cruciales afin de définir le profil recherché. 
-2) **Rédaction de l'annonce** : L'employeur peut désormais rédiger l'offre d'emploi. Cette annonce comporte les pricnipales caractéristiques que l'entreprise veut montrer. Des inforamtions peuvent y être trouvées telles que l'identité visuelle (Elements visuels pouvant nous apporter des inforamtions, modernité ?), l'identité de communication (l'annonce est-elle rédigée à la premiere personne? l'offre s'appuie t'elle sur une personnalité recherchée plutôt que sur des compètences précises?), le profil de RH peut également être deviné (l'annonce est-elle impérative ?), ... 
-3) **La diffusion de l'annonce** : Une fois l'annonce rédigée, le recruteur choisit également avec précaution les canaux de diffusion. En moyenne, les recruteurs n'utilisent que 3,1 canaux de diffusion. En effet, avec une stratégie bien définie et des canaux bien choisis, il n'a pas besoin de plus! 
-4) **Pré-selection**: Les recruteurs sont limités en temps pour connaître les profils de leur candidats. En amont de leur rencontre, ils réfléchissent donc aux informations qui les intéressent le plus et à la façon de les récolter. De plus, devant l'afflux de candidats, certaines entreprises peuvent choisir des IA et des logiciels (comme ATS pour Applicant Tracking System) afin de "trier" et maximiser leurs chances de trouver les meilleurs candidats. (Voir Les outils pour un meilleur sourcing)
-5) **Les entretiens d'embauches** : Partie la plus redoutée par les candidats, les entretiens font également partie intégrante de la stratégie des recruteurs. Le temps étant limité, une fois de plus les outils et les conditions de passations sont réfléchies. Nous étudierons les tenants et aboutissants des différents types d'entretien ainsi que des différents types de tests.
-6) **Choix et administratif** : Une fois les candidatures examinées et les entretiens effectués, le recruteur effectue le choix du futur collaborateur dans lesquelles il peut être aidé et conseillé par d'autres membres de l'équipe, puis les démarches administratives. 
-7) **Arrivée du nouvel employé** : Le nouveau collaborateur peut désormais être intégré à l'équipe. 
+Il est possible de tirer différentes étapes dans le recrutement:
 
-Nous pouvons dès à présent remarquer que la majorité des étapes ne sont pas visible au candidat. 
+1. **Rédaction de la fiche de poste** : En amont du recrutement, il est nécessaire de faire un point sur les besoins de ses équipes. Cela peut passer par différents moyens : entretetiens avec les collaborateurs actuels, les informations recueillies lors des entretiens annuels, les besoins remontés par les Lead Devs ou Scrum Masters, ... Cette récolte d'informations concernant les équipes en place permet de tracer un poste recherché. Une liste des tâches doit être inscrite dans une fiche de poste afin de décrire les compétences nécessaires au futur employé. Ces étapes sont cruciales afin de définir le profil recherché.
+2. **Rédaction de l'annonce** : L'employeur peut désormais rédiger l'offre d'emploi. Cette annonce comporte les pricnipales caractéristiques que l'entreprise veut montrer. Des inforamtions peuvent y être trouvées telles que l'identité visuelle (Elements visuels pouvant nous apporter des inforamtions, modernité ?), l'identité de communication (l'annonce est-elle rédigée à la premiere personne? l'offre s'appuie t'elle sur une personnalité recherchée plutôt que sur des compètences précises?), le profil de RH peut également être deviné (l'annonce est-elle impérative ?), ...
+3. **La diffusion de l'annonce** : Une fois l'annonce rédigée, le recruteur choisit également avec précaution les canaux de diffusion. En moyenne, les recruteurs n'utilisent que 3,1 canaux de diffusion. En effet, avec une stratégie bien définie et des canaux bien choisis, il n'a pas besoin de plus!
+4. **Pré-selection**: Les recruteurs sont limités en temps pour connaître les profils de leur candidats. En amont de leur rencontre, ils réfléchissent donc aux informations qui les intéressent le plus et à la façon de les récolter. De plus, devant l'afflux de candidats, certaines entreprises peuvent choisir des IA et des logiciels (comme ATS pour Applicant Tracking System) afin de "trier" et maximiser leurs chances de trouver les meilleurs candidats. (Voir Les outils pour un meilleur sourcing)
+5. **Les entretiens d'embauches** : Partie la plus redoutée par les candidats, les entretiens font également partie intégrante de la stratégie des recruteurs. Le temps étant limité, une fois de plus les outils et les conditions de passations sont réfléchies. Nous étudierons les tenants et aboutissants des différents types d'entretien ainsi que des différents types de tests.
+6. **Choix et administratif** : Une fois les candidatures examinées et les entretiens effectués, le recruteur effectue le choix du futur collaborateur dans lesquelles il peut être aidé et conseillé par d'autres membres de l'équipe, puis les démarches administratives.
+7. **Arrivée du nouvel employé** : Le nouveau collaborateur peut désormais être intégré à l'équipe.
+
+Nous pouvons dès à présent remarquer que la majorité des étapes ne sont pas visible au candidat.
 
 ### Les outils pour un meilleur sourcing
 
 #### Le sourcing
 
-Le sourcing c’est le processus de recherche pour le recrutement. Il représente environ 80% du temps des recruteurs, d’où son importance et le travail profond des recruteurs pour maximiser ses performances. 
-Le sourcing peut donc être considéré comme faisant partie intégrante du recrutement. Littéralement, il signifie même l'"approvisionnement", ce qui traduit bien cette idée de constituer une provision de potentiels candidats adaptés aux besoins de l'entreprise. 
+Le sourcing c’est le processus de recherche pour le recrutement. Il représente environ 80% du temps des recruteurs, d’où son importance et le travail profond des recruteurs pour maximiser ses performances.
+Le sourcing peut donc être considéré comme faisant partie intégrante du recrutement. Littéralement, il signifie même l'"approvisionnement", ce qui traduit bien cette idée de constituer une provision de potentiels candidats adaptés aux besoins de l'entreprise.
 
 ![le sourcing](img/methode-sourcing-digital.jpg)
 
-Pour résumer, le sourcing est donc la définition d'une stratégie de recrutement destinée à simplifier le processus de recrutement et améliorer l’efficacité de celui-ci. Le but est de trouver les meilleurs profils pour répondre aux besoins de l’entreprise. 
-Le sourcing est donc à la base des recrutements et sa compréhension démontre que le choix des canaux de recrutements, des personnes en charge des entretiens, des types d’entretiens, des potentiels tests techniques sont destinés à la recherche du potentiel d’employabilité des candidats. 
+Pour résumer, le sourcing est donc la définition d'une stratégie de recrutement destinée à simplifier le processus de recrutement et améliorer l’efficacité de celui-ci. Le but est de trouver les meilleurs profils pour répondre aux besoins de l’entreprise.
+Le sourcing est donc à la base des recrutements et sa compréhension démontre que le choix des canaux de recrutements, des personnes en charge des entretiens, des types d’entretiens, des potentiels tests techniques sont destinés à la recherche du potentiel d’employabilité des candidats.
 Ces enjeux en tête, nous pouvons désormais étudier comment “hacker” ces processus de recrutement afin de placer notre profil en avant.
 
-#### Les outils utilisés: 
+#### Les outils utilisés:
 
-Dans le but d’améliorer leurs stratégies de sourcing et devant l’afflux de candidats, les entreprises utilisent désormais de nouvelles méthodes de tri. 
+Dans le but d’améliorer leurs stratégies de sourcing et devant l’afflux de candidats, les entreprises utilisent désormais de nouvelles méthodes de tri.
 
-##### L'intelligence artificielle 
-Le but de l’intelligence artificielle appliquée au recrutement est de sélectionner parmi une liste les meilleurs candidats pour une offre donnée. 
-- **Le recrutement augmenté**: Analyser le profil d’un candidat puis le faire correspondre à une offre. C’est une sorte de matching entre une candidature reçue et la liste des offres de l’entreprise. Cela peut permettre à un candidat d’être redirigé vers une offre d’emploi plus adaptée à son profil car celui-ci ne l’avait par exemple pas vue. Le bénéfice pour l’employeur est un gain considérable de temps et une meilleure correspondance des profils avec les offres d’emploi. 
-- **Le recrutement prédictif** : Le recrutement prédictif a pour but d’anticiper et de prévoir la capacité d’un profil à correspondre avec une offre donnée. L’IA effectue une évaluation prévisionnelle des capacités du candidat à répondre aux besoins de l’emploi. 
-- **Le recrutement de personnalité** : A la différence du recrutement prédictif, ce ne sont pas les compétences techniques qui sont évaluées mais plutôt les soft skills, le savoir être, et la capacité pour le candidat de s’engager dans l’entreprise. 
+##### L'intelligence artificielle
 
-##### Les algorithmes: 
-Plus triviaux que l'IA, les algorithmes peuvent sortir un classement des candidats selon un score calculé à partir de données arbitraires (score de compétence, mots clés du C.V., ...). Certains algorithmes sont également développé dans le but d'analyser des critères tels que le niveau de vocabulaire, ou le langage corporel. 
+Le but de l’intelligence artificielle appliquée au recrutement est de sélectionner parmi une liste les meilleurs candidats pour une offre donnée.
+
+- **Le recrutement augmenté**: Analyser le profil d’un candidat puis le faire correspondre à une offre. C’est une sorte de matching entre une candidature reçue et la liste des offres de l’entreprise. Cela peut permettre à un candidat d’être redirigé vers une offre d’emploi plus adaptée à son profil car celui-ci ne l’avait par exemple pas vue. Le bénéfice pour l’employeur est un gain considérable de temps et une meilleure correspondance des profils avec les offres d’emploi.
+- **Le recrutement prédictif** : Le recrutement prédictif a pour but d’anticiper et de prévoir la capacité d’un profil à correspondre avec une offre donnée. L’IA effectue une évaluation prévisionnelle des capacités du candidat à répondre aux besoins de l’emploi.
+- **Le recrutement de personnalité** : A la différence du recrutement prédictif, ce ne sont pas les compétences techniques qui sont évaluées mais plutôt les soft skills, le savoir être, et la capacité pour le candidat de s’engager dans l’entreprise.
+
+##### Les algorithmes:
+
+Plus triviaux que l'IA, les algorithmes peuvent sortir un classement des candidats selon un score calculé à partir de données arbitraires (score de compétence, mots clés du C.V., ...). Certains algorithmes sont également développé dans le but d'analyser des critères tels que le niveau de vocabulaire, ou le langage corporel.
 
 ##### Les "bots" ou robots d'aide au recrutement
-D'autres robots existent et prennent la forme de robots de chat. Ceux-ci permettent de répondre aux questions des potentiels candidats sur l'entreprise, ou encore à des questions plus délicates à aborder en entretien. 
 
+D'autres robots existent et prennent la forme de robots de chat. Ceux-ci permettent de répondre aux questions des potentiels candidats sur l'entreprise, ou encore à des questions plus délicates à aborder en entretien.
 
 Ces outils peuvent faire peur aux candidats car le tri des candidats est effectué selon des critères arbitraires ne laissant que peu de place à l’évaluation des qualités personnelles du candidat et aux profils divers. Cependant, il faut retenir que les recruteurs connaissent les limites de ces outils et que les entreprises ne recevant que peu d’offres n’ont que peu d’intérêt à utiliser ces outils qui risquent de ne pas favoriser les bien-êtres en entreprise. Pour aller plus loin, l’utilisation des outils liés à l’IA peut même être perçue comme permettant aux employeurs de consacrer plus de temps aux tâches à valeur humaine ajoutée en leur permettant une économie de temps sur les tâches de tri des candidatures.
 
@@ -281,43 +284,81 @@ Ces tests sont également utilisés pour évaluer les compétences actuelles des
 
 ### C'est quoi la e-réputation ? C'est quoi l'identité ? C'est quoi la réputation ?
 
+La e-réputation est l'image numérique que renvoie internet d'une entreprise ou d'une personne.
+Cette image est un regroupement de contenus en ligne (réseaux sociaux, commentaires).
+Il existe deux types de contenus : ceux publiés par la personne et ceux publiés par des tiers.
+
+L'identité numérique repose sur les informations que nous laissons volontairement ou non sur internet.
+Cela peut allez d'une simple photos de vacances sur facebook ou d'un ancien twitte.
+
+Ces informations une fois publiées ne nous appartiente plus vraiment et peuvent même nous portées préjudice.
+Il est donc primordial de bien maitrisés son image afin de pas noircir votre réputation car dans le monde du web on vous jugera sur celle-ci.
+
 ### Que dit Google sur vous ?
 
 ### Quelles traces est-il possible de laisser en ligne ?
 
+\*Il existe deux types de traces :\*\*
+
+1.  Les traces volontaires :
+    - Publication sur facebook, blog etc..
+    - Les commentaires, avis
+    - Donnée transmis par le biais de formulaire
+2.  Les traces involontaires :
+    - Adresse IP (géolocalisation)
+    - Les recherches effectuer
+    - Les cookies
+    - Sites web visités
+
 ### Définissez le terme de "personnal branding"
+
+Le personnal branding est une méthode qui consiste à travailler son image comme une marque.
+Elle permet de se construire une identité claire et précise qui retranscrit fidèlement vos compétences.
 
 ### Comment peut-on travailler son personal branding ?
 
+1. Apprendre à se connaître
+   - Compétences
+   - Faiblesses
+   - Objectif : À court, moyen et long terme
+   - Centre d'intérêt
+2. Se faire connaître
+   - Identifier la cible
+   - Travailler sa présence en ligne
+   - Apprendre à communiquer
+   - Utilisation d'outils et mettre en avant son contenu
+   - Développer son réseau
 
-## Comment postuler ? 
+## Comment postuler ?
 
-Ces considérations faites sur la façon dont est construit le recrutement et la meilleure façon de s'y préparer, il nous faut encore trouver la meilleure façon de postuler. 
-Il existe différentes façons de postuler comme: 
+Ces considérations faites sur la façon dont est construit le recrutement et la meilleure façon de s'y préparer, il nous faut encore trouver la meilleure façon de postuler.
+Il existe différentes façons de postuler comme:
+
 - La cooptation : Il s'agit de mobiliser son entourage et ses relations afin qu'un employé en poste puisse porter notre candidature auprès de son entreprise. Cette méthode étant spécifique à chaque personne, nous ne la développerons pas plus ici.
-- La candidature spontannée : La candidature spontanée est l'initiative de postuler dans une entreprise en dehors des potentielles offres d'emploi émise par celle-ci. Il est important dans ce cadre de se rappeler que notre candidature ne réponds pas à un besoin de l'entreprise et qu'il est donc très important de créer ce besoin chez l'employeur. Les moyens pour postuler (C.V., lettre de motivation) doivent donc être très travaillés et l'entreprise cible bien choisie. Le profil présenté doit être soigné et le personnal branding travaillé. La relance est également de mise. 
-- Postuler aux offres : C'est le moyen privilégié en France pour accéder aux emplois. C'est ce moyen que nous décidons de développer. 
-    
+- La candidature spontannée : La candidature spontanée est l'initiative de postuler dans une entreprise en dehors des potentielles offres d'emploi émise par celle-ci. Il est important dans ce cadre de se rappeler que notre candidature ne réponds pas à un besoin de l'entreprise et qu'il est donc très important de créer ce besoin chez l'employeur. Les moyens pour postuler (C.V., lettre de motivation) doivent donc être très travaillés et l'entreprise cible bien choisie. Le profil présenté doit être soigné et le personnal branding travaillé. La relance est également de mise.
+- Postuler aux offres : C'est le moyen privilégié en France pour accéder aux emplois. C'est ce moyen que nous décidons de développer.
 
-### Sur quelles plateformes postuler ? 
+### Sur quelles plateformes postuler ?
 
-Il n'est plus nécessaire aujourd'hui d'éplucher les annonces du journal afin de trouver l'annonce recherchée. Il n'est pas non plus possible pour un junior d'attendre passivement que les recruteurs nous proposent un emploi. 
+Il n'est plus nécessaire aujourd'hui d'éplucher les annonces du journal afin de trouver l'annonce recherchée. Il n'est pas non plus possible pour un junior d'attendre passivement que les recruteurs nous proposent un emploi.
 
-Depuis l'arrivée d'Internet, nombreuses sont les plateformes qui regroupent les offres d'emplois. 
-Certaines de ces plateformes sont des plateformes généralistes (telles que Indeed,Monster, Jobijoba, keljob, ... ). L'avantage est de pouvoir y trouver de très nombreuses offres. L'inconvénient est que celles-ci sont plus limitées pour des domaines spécifiques. 
-D'autres plateformes institutionnelles (pôle-emploi, sites des missions locales, un jeune une solution) sont également disponibles mais celles-ci sont souvent adaptées aux profils au faible niveau d'étude. 
+Depuis l'arrivée d'Internet, nombreuses sont les plateformes qui regroupent les offres d'emplois.
+Certaines de ces plateformes sont des plateformes généralistes (telles que Indeed,Monster, Jobijoba, keljob, ... ). L'avantage est de pouvoir y trouver de très nombreuses offres. L'inconvénient est que celles-ci sont plus limitées pour des domaines spécifiques.
+D'autres plateformes institutionnelles (pôle-emploi, sites des missions locales, un jeune une solution) sont également disponibles mais celles-ci sont souvent adaptées aux profils au faible niveau d'étude.
 
-Il existe des plateformes spécialisées dans l'informatique comme maddyJobs, welovedevs, lesjeudis.com, chooseyourboss, ... Ces plateformes ont l'avantage d'être adaptées aux profils juniors comme seniors. La plupart des entreprises du numérique y sont présentes. 
+Il existe des plateformes spécialisées dans l'informatique comme maddyJobs, welovedevs, lesjeudis.com, chooseyourboss, ... Ces plateformes ont l'avantage d'être adaptées aux profils juniors comme seniors. La plupart des entreprises du numérique y sont présentes.
 
-Dans la majorité des cas, il est important de garder en tête qu'il va falloir multiplier les candidatures aux différentes entreprises et de se préparer aux refus. Afin de gérer au mieux ces candidatures, des outils ont vu le jour: 
-- Excel : Ce n'est pas un outil dédié, mais il est tout à fait possible avec un tableur de construire un tableau recensant les offres auxquelles on a postulé, les réponses obtenues, les relances, ... 
-- Les outils de suivi de candidature : De nombreuses solutions gratuites ou payantes existent afin de suivre les candidatures. Certaines offrent la possibilité de lier ses comptes d'autres plateformes afin de s'actualiser. Différentes plateformes telles que Trello, Notion, Google Drive peuvent être utilisée à ces fins. Nous conseillons particulièrement Notion pour sa facilité d'utilisation, sa centralisation des informations, et la solution complète proposée. 
+Dans la majorité des cas, il est important de garder en tête qu'il va falloir multiplier les candidatures aux différentes entreprises et de se préparer aux refus. Afin de gérer au mieux ces candidatures, des outils ont vu le jour:
+
+- Excel : Ce n'est pas un outil dédié, mais il est tout à fait possible avec un tableur de construire un tableau recensant les offres auxquelles on a postulé, les réponses obtenues, les relances, ...
+- Les outils de suivi de candidature : De nombreuses solutions gratuites ou payantes existent afin de suivre les candidatures. Certaines offrent la possibilité de lier ses comptes d'autres plateformes afin de s'actualiser. Différentes plateformes telles que Trello, Notion, Google Drive peuvent être utilisée à ces fins. Nous conseillons particulièrement Notion pour sa facilité d'utilisation, sa centralisation des informations, et la solution complète proposée.
   Nous ne détaillons ici pas les différents outils permettant de créer un template mail, organiser ses rendez-vous
 
 #### Exemple de suivi de candidature
-Prenons pour exemple une candidature pour un premier poste de développeur web junior (spécialisation back-end). 
 
-Avec Notion : 
+Prenons pour exemple une candidature pour un premier poste de développeur web junior (spécialisation back-end).
+
+Avec Notion :
 ![suivi](img/suivi.png)
 
 ## Interview d'un développeur
@@ -409,36 +450,38 @@ Ne pas rester sur ses acquis et continuer de se former, d'être curieux.
 Rendre un travail qualitatif et minutieux.
 Se lancer en freelance après une expérience en entreprise.
 
-### Conclusion : 
-Cette interview riche de renseignements confirme les éléments apportés au long de ce guide. 
+### Conclusion :
+
+Cette interview riche de renseignements confirme les éléments apportés au long de ce guide.
 
 ## L'éthique
 
-Désormais équipés pour affronter la vie professionelle, un dernier questionnement est nécessaire pour envisager notre parcours professionnel en tant que développeur. 
-Ce questionnement porte le nom d'éthique, mais qu'est-ce que ce terme? 
+Désormais équipés pour affronter la vie professionelle, un dernier questionnement est nécessaire pour envisager notre parcours professionnel en tant que développeur.
+Ce questionnement porte le nom d'éthique, mais qu'est-ce que ce terme?
 
-L'éthique est devenue une discipline philosophique au 18è siècle avec sa définition par Rousseau, puis avec Kant. Plus tôt, l'éthique est très lié à la morale. Avec ces philosophes elle s'en émancipe pour devenir plus technique. Kant fait de l'éthique un problème duel au coeur duquel la méthodologie de récolte des informations concernant les bénéfices et risques devient capital. 
+L'éthique est devenue une discipline philosophique au 18è siècle avec sa définition par Rousseau, puis avec Kant. Plus tôt, l'éthique est très lié à la morale. Avec ces philosophes elle s'en émancipe pour devenir plus technique. Kant fait de l'éthique un problème duel au coeur duquel la méthodologie de récolte des informations concernant les bénéfices et risques devient capital.
 
-Pour résumer, l'éthique peut être considéré comme une règle constituée par notre morale. Cette règle régit nos comportements quotidiens dans des situations de dilemmes. Notre éthique nous aide alors à décider comment agir dans des situations données. Elle peut être considérée comme la partie technique de la morale. Cette éthique soumises aux situations réelle constitue ce que l'on appelle éthique appliquée. 
+Pour résumer, l'éthique peut être considéré comme une règle constituée par notre morale. Cette règle régit nos comportements quotidiens dans des situations de dilemmes. Notre éthique nous aide alors à décider comment agir dans des situations données. Elle peut être considérée comme la partie technique de la morale. Cette éthique soumises aux situations réelle constitue ce que l'on appelle éthique appliquée.
 
-Loin d'être une simple expérience philosophique, l'éthique appliquée se rencontre au quotidien. De simples questions comme "faut-il interdire la publicité" ou "Faut-il boycotter?" contienne des réflexions éthiques. 
+Loin d'être une simple expérience philosophique, l'éthique appliquée se rencontre au quotidien. De simples questions comme "faut-il interdire la publicité" ou "Faut-il boycotter?" contienne des réflexions éthiques.
 
-Différents protocoles d'aides à la décision ont été définis, nous pouvons cependant les résumer grossièrement par ces étapes: 
+Différents protocoles d'aides à la décision ont été définis, nous pouvons cependant les résumer grossièrement par ces étapes:
+
 - Se questionner sur les bénéfices et risques de la situation
 - Aller au delà du simple conflit moral en analysant profondément la situation à l'aide de questions empiriques
 - Se questionner sur notre champ d'action et ses conséquences directes
 - Faire preuve d'introspection et comprendre nos valeurs et engagements moraux
 
-### L'éthique du développeur 
+### L'éthique du développeur
 
-Toute cette théorie peut facilement être appliquée au quotidien d'un développeur. PLusieurs situations peuvent être sources de questionnements éthiques par les dilemmes qu'elles soulèvent: 
-- Que faire d'un emploi de développeur pour une entreprise liée à la pornographie ? 
-- Que faire d'une mission de conception d'interface de pilotage de drônes d'attaques ? 
-- Que faire en cas de contact par une mouvance sectaire afin de réaliser leur site web ? 
+Toute cette théorie peut facilement être appliquée au quotidien d'un développeur. PLusieurs situations peuvent être sources de questionnements éthiques par les dilemmes qu'elles soulèvent:
 
-Chacune de ces situations mets directement en jeu notre morale et donc notre éthique. Les dilemmes soulevés sont importants et méritent d'être réfléchis personnellement. 
-Toutefois, la discussion en équipe autour d'une mission peut conduire à pousser nos réflexions. 
+- Que faire d'un emploi de développeur pour une entreprise liée à la pornographie ?
+- Que faire d'une mission de conception d'interface de pilotage de drônes d'attaques ?
+- Que faire en cas de contact par une mouvance sectaire afin de réaliser leur site web ?
 
+Chacune de ces situations mets directement en jeu notre morale et donc notre éthique. Les dilemmes soulevés sont importants et méritent d'être réfléchis personnellement.
+Toutefois, la discussion en équipe autour d'une mission peut conduire à pousser nos réflexions.
 
 Sources :
 
