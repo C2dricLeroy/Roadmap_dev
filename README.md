@@ -159,7 +159,7 @@ Celui-ci à le choix de se spécialiser dans différents domaines ou technologie
 Lorsque l’on possède une compétence, il n’y a pas la notion de pratique qui entre en jeu. Il faut agir avec une compétence pour être compétent.
 Grâce à ses compétences, on peut devenir compétent, à force de pratique, en utilisant ses compétences, les compétences sont reconnues.
 
-## Startup vs ESN
+## Startup/ ESN/ Freelance
 
 ### Qu'est-ce qu'une Startup ?
 
@@ -176,6 +176,15 @@ l'ESN (Entreprise de service numérique) anciennement connu sous le nom SSI (Soc
 L'ESN propose différents services par exemple donner des conseils, faire une maintenance, intégrer un système etc.
 
 Ce type d'entreprise embauche facilement des juniors spécialisées dans leur domaine avec une faible rémunération, pour travailler sur des missions spécifiques. Ils devront être multitâches et travailler sur plusieurs projets. Chacun pourra s'épanouir dans sa spécialité, néanmoins il existe moins de perspective d'évolution.
+
+#### Qu'est-ce que freelance ?
+Le freelance renvoie à un travailleur indépendant, ce qui signifie qu'il n'a pas de contrat de longue durée avec un employeur en particulier.
+N'importe qui peut se lancer dans le freelance à condition d'être polyvalent et avoir de solides acquis afin de répondre aux exigences du client, et travailler sur différentes missions.
+ 
+Le succès du freelance réside dans l'autonomie, d'être curieux et de rechercher des missions/clients.
+Ce type de structure à des débuts difficiles car l'entreprise n'est pas encore reconnue.
+Cependant, elles ont des horaires plus flexibles, collaborant à distance et sont libres de fixer leur prix.
+
 
 #### Qu'elles sont les attentes dans les différents types d'entreprises pour ce rôles ?
 
