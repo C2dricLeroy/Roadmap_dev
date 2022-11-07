@@ -358,6 +358,12 @@ Deuxièmement, il est important de se faire connaître.
   Pour finir, il est important de comprendre que ce travail de personnal branding permet de développer un réseau. Une erreur courante est de penser que des inconnus ne peuvent nous aider. Cependant, les réseaux sociaux sont de grandes sources d'entraides pour la recherche de stages ou d'emploi. Il ne faut néanmoins pas noyer son profil par des demandes incessantes au risque de lasser son auditoire. 
   
 
+### La préparation aux entretiens
+
+#### Comment se préparer au mieux ? 
+
+#### Les questions courantes
+
 ## Comment postuler ?
 
 Ces considérations faites sur la façon dont est construit le recrutement et la meilleure façon de s'y préparer, il nous faut encore trouver la meilleure façon de postuler.
