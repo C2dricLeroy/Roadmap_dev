@@ -160,7 +160,6 @@ Lorsque l’on possède une compétence, il n’y a pas la notion de pratique qu
 Grâce à ses compétences, on peut devenir compétent, à force de pratique, en utilisant ses compétences, les compétences sont reconnues.
 
 ## Startup/ ESN/ Freelance
-
 ### Qu'est-ce qu'une Startup ?
 
 Une startup est une nouvelle entreprise avec un potentiel croissant. Ayant pour objectif de dominer le marché dans lequel est son secteur d'activité.
@@ -178,6 +177,7 @@ L'ESN propose différents services par exemple donner des conseils, faire une ma
 Ce type d'entreprise embauche facilement des juniors spécialisées dans leur domaine avec une faible rémunération, pour travailler sur des missions spécifiques. Ils devront être multitâches et travailler sur plusieurs projets. Chacun pourra s'épanouir dans sa spécialité, néanmoins il existe moins de perspective d'évolution.
 
 #### Qu'est-ce que freelance ?
+
 Le freelance renvoie à un travailleur indépendant, ce qui signifie qu'il n'a pas de contrat de longue durée avec un employeur en particulier.
 N'importe qui peut se lancer dans le freelance à condition d'être polyvalent et avoir de solides acquis afin de répondre aux exigences du client, et travailler sur différentes missions.
  
@@ -186,16 +186,7 @@ Ce type de structure à des débuts difficiles car l'entreprise n'est pas encore
 Cependant, elles ont des horaires plus flexibles, collaborant à distance et sont libres de fixer leur prix.
 
 
-#### Qu'elles sont les attentes dans les différents types d'entreprises pour ce rôles ?
-
-#### Quels sont les facteurs de succès dans ce type d'entreprises ?
-
-#### Comment est organisé une journée type d'entreprise ?
-
-#### Quelles sont les spécifités de type de structure dans votre quotidien comparé aux types d'entreprise ?
-
 ## Le recrutement :
-
 ### Quelles sont les étapes du processus de recrutement ?
 
 Le recrutement est crucial dans la vie d'une entreprise. En effet, un bon recrutement a pour but doit jouer avec le but d'aggrandir l'entreprise avec de nouveaux collaborateurs tout en s'efforcant de renforcer les équipes déjà en place par l'intégration d'une personnalité s'intégrant dans leur équipe.
@@ -213,7 +204,6 @@ Il est possible de tirer différentes étapes dans le recrutement:
 Nous pouvons dès à présent remarquer que la majorité des étapes ne sont pas visible au candidat.
 
 ### Les outils pour un meilleur sourcing
-
 #### Le sourcing
 
 Le sourcing c’est le processus de recherche pour le recrutement. Il représente environ 80% du temps des recruteurs, d’où son importance et le travail profond des recruteurs pour maximiser ses performances.
@@ -370,6 +360,40 @@ Deuxièmement, il est important de se faire connaître.
 ### La préparation aux entretiens
 
 #### Comment se préparer au mieux ? 
+
+Une fois l'entretien décroché, il faut encore se préparer pour le réussir au mieux. 
+
+##### Travailler la confiance en soi
+
+Le sentiment de confiance en soi passe par la communication. 
+Il existe deux types de communication : 
+- La communication verbale
+- La communication non-verbale. 
+Ces deux types de communication sont à travailler. 
+
+Le manque de confiance en soi constitue un cercle vicieux : 
+Le peu de confiance en soi (1), entraine un comportement de retrait et une action sans conviction (2), cela entraine des expériences décevantes (3) et la personne se sent peu compétente (4), ces mauvaises expérience et cet apprentissage renforcent alors le manque de confiance en soi (5). 
+
+Des exercices techniques peuvent être tirés de ces grands domaines : 
+1) Apprendre à se connaitre pour gérer au mieux les situations de stress
+2) Aller vers les autres
+3) Sortir de sa zone de confort
+4) Se fixer des objectifs
+5) Arrêter de se comparer aux autres.
+6) Ne pas avoir peur de l'échec et mieux appréhender l'échec. 
+
+##### Etre plus à l'aise en entretien
+
+L'entretien d'embauche peut être considérée comme une évaluation de notre personne et de nos compétences pour une tâche donnée. L'employeur cherche à rendre cette expérience déstabilisante afin d'observer notre comportement en situation de stress. 
+
+Quelques techniques peuvent alors êtres mises en place afin d'être plus à l'aise en entretien. 
+
+- **Les tape-loop** : Littéralement, tape-loop veut dire boucle de bande. Elle désigne dans notre contexte une réponse pré-enregistrée à la question d'un employeur. Il est important à la fois de se connaître et de connaître les questions potentielles de l'entreprise. 
+- **La connaissance de l'entreprise** : Il est important de se renseigner en amont sur l'entreprise chez laquelle on a postulé. Il est important de connaître l'histroire de l'entreprise, ses valeurs, les avis clients, les domaines d'activités, ...
+- **L'entrainement technique** : De nombreuses plateformes en ligne permettent un entrainement à l'algorithmie et la résolution de problème. 
+- **Le coaching / Mentorat** : De nombreuses personnes plus expérimentées offrent leur savoir et leur expérience au travers du mentorat et du coaching. Ils proposent un accompagnement la plupart du temps gratuit et personnalisé.
+- **Le développement personnel**: De nombreuses lectures de développement personnel permettent également de développer un sentiment de confiance en soi.
+- **La re-formulation des questions**: Re-formuler la question d'un employeur a plusieurs avantages. Cela permet d'un côté de gagner du temps de réflexion sur la réponse à apporter, d'un autre côté cela prouve à notre auditeur que l'on écoute sa question et qu'on l'a bien reçue.
 
 #### Les questions courantes
 
