@@ -373,6 +373,21 @@ Deuxièmement, il est important de se faire connaître.
 
 #### Les questions courantes
 
+Voici une liste de questions courantes en entretien pour lesquelles une réponse doit être préparée en amont de chaque entretien. 
+
+1) Pourquoi devrions-nous vous engager ? 
+2) Avez-vous des questions ? 
+3) Quelles sont vos qualités et vos défauts ? 
+4) Préférez-vous travailler seul ou en équipe ? 
+5) Pourquoi nous avoir choisi ? 
+6) Que pensez-vous nous apporter ? 
+7) Où vous voyez vous dans 2, 5, 10 ans ? 
+8) Comment expliquez-vous que vous n'ayez pas travaillé durant cette période ? 
+9) Qu'est-ce que vous aimez faire en dehors du travail ? 
+10) Quelles sont vos prétentions salariales ? 
+
+A chacune de ces questions, une réponse quasi automatique doit être préparée. 
+
 ## Comment postuler ?
 
 Ces considérations faites sur la façon dont est construit le recrutement et la meilleure façon de s'y préparer, il nous faut encore trouver la meilleure façon de postuler.
