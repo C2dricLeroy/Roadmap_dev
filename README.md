@@ -285,16 +285,27 @@ Ces tests sont également utilisés pour évaluer les compétences actuelles des
 ### C'est quoi la e-réputation ? C'est quoi l'identité ? C'est quoi la réputation ?
 
 La e-réputation est l'image numérique que renvoie internet d'une entreprise ou d'une personne.
-Cette image est un regroupement de contenus en ligne (réseaux sociaux, commentaires).
+Cette image est un regroupement de contenus en ligne (réseaux sociaux, commentaires, ...).
 Il existe deux types de contenus : ceux publiés par la personne et ceux publiés par des tiers.
 
 L'identité numérique repose sur les informations que nous laissons volontairement ou non sur internet.
-Cela peut allez d'une simple photos de vacances sur facebook ou d'un ancien twitte.
+Cela peut allez d'une simple photos de vacances sur facebook ou d'un ancien twitter. 
 
-Ces informations une fois publiées ne nous appartiente plus vraiment et peuvent même nous portées préjudice.
-Il est donc primordial de bien maitrisés son image afin de pas noircir votre réputation car dans le monde du web on vous jugera sur celle-ci.
+Ces informations une fois publiées ne nous apparttiennent plus vraiment et peuvent même nous porter préjudice.
+Il est donc primordial de bien maitriser son image afin de pas noircir notre réputation car dans le monde du web on vous jugera sur celle-ci.
+
+En effet, lors du recrutement, il n'est pas rare qu'un employeur rentre notre nom sur Google afin d'avoir des informations sur nous. Nous ne voulons pas que ceui-ci tombe sur notre vieux skyblog ou sur les photos facebook publiée par un ami après une soirée arrosée.. De plus, nos commentaires sur les réseau sociaux peuvent eux aussi être retrouvés ! Il est donc nécessaire de rester cordial et construit dans nos argumentaires sur les réseaux afin de conserver un certain profesionnalisme. 
 
 ### Que dit Google sur vous ?
+
+Comment se préparer à l'éventualité d'une recherche nous concernant sur Internet ? 
+
+Un premier test consiste simplement à entrer son nom et son prénom sur Google afin de voir les résultats de recherches arrivant en premier. 
+Il n'est pas conseillé de laisser son facebook personnel apparaître en premier résultat de recherche. Un portfolio professionnel ou un linkedIn professionel fait bien meilleur impression. 
+
+Il est également possible d'utiliser le service Google Alerts afin de recevoir des alertes lorsqu'est publié quelque chose avec votre nom et prénom. 
+
+Un autre outil permettant de rechercher des informations nous concernant est Webmii. 
 
 ### Quelles traces est-il possible de laisser en ligne ?
 
@@ -314,20 +325,38 @@ Il est donc primordial de bien maitrisés son image afin de pas noircir votre r�
 
 Le personnal branding est une méthode qui consiste à travailler son image comme une marque.
 Elle permet de se construire une identité claire et précise qui retranscrit fidèlement vos compétences.
+Il est important de comprendre qu'il faut créer un besoin chez l'employeur. L'exercice est de faire valoir ses compétences sans trop en faire. 
+La présence sur les réseaux sociaux est donc très importante afin de choisir les informations que l'on souhaite présenter aux employeurs. 
 
 ### Comment peut-on travailler son personal branding ?
 
-1. Apprendre à se connaître
-   - Compétences
-   - Faiblesses
-   - Objectif : À court, moyen et long terme
-   - Centre d'intérêt
-2. Se faire connaître
-   - Identifier la cible
-   - Travailler sa présence en ligne
-   - Apprendre à communiquer
-   - Utilisation d'outils et mettre en avant son contenu
-   - Développer son réseau
+Travailler son personnal branding pour un candidat passe en priorité par sa présence sur les réseaux sociaux. En effet, bien maîtrisés ceux-ci permettent de sélectionner les informations que l'on souhaite faire passer par Internet. 
+
+Avant toute chose, il est important d'apprendre à se connaître: 
+  - **Apprendre à se connaître** : 
+  Apprendre à se connaitre passe premièrement par une réflexion sur les compétences que l'on veut mettre en avant. Les compétences doivent être choisies en fonction du type d'entreprise cible.  
+  D'autre part, il est important de connapitre également ses faiblesses. Lorsque l'on est présent en ligne, exposer ses faiblesses peut être considéré par un employeur comme une bonne chose avec une remise en question. Néanmoins, exposer son désarroi suite à un entretien, exposer sa détresse face à un problème simple peut donner une mauvaise impression. Les fabilesses peuvent donc être exposées mais avec parcimonie et réflexion : celles-ci doivent démontrer les capacités d'apprentissage et de résolution des problèmes plutôt que d'être une dévalorisation. 
+  - **Définir ses objectifs**: 
+  Il est également important de définir ses objectifs à court, moyen et long terme. Les objectifs doivent être de préférence concrets et réalisables, et reflèter un cheminement à la fois professionnel et personnel. 
+  - **Centres d'intérêts** : 
+  Pour finir, il ne faut pas oublier que nos centres d'intérêts constituent une grande part de notre personnalité et sont d'une forte valeur ajoutée pour les employeurs. Un personnal branding travaillé intègre ces éléments afin de présenter une personnalité passionnée. 
+
+Deuxièmement, il est important de se faire connaître. 
+  - **Identifier la cible** : 
+  Premièrement et en lien avec le fait de se connaître, notre projet professionel nous conduit à identifier des recruteurs cible. Il est important de comprendre que selon ses cibles et selon son projet professionnel, la communication effectuée et les canaux choisis ne seront pas les mêmes. Par exemple, si à l'avenir un poste à responsabilité dans une ESN est recherché, la présence sur LinkedIn et un professionalisme rigoureux et à publier. 
+  Pour un poste visé dans une start-up, les soft skills et les compétences annexes, la disponibilité et la pédagogie peuvent être à mettre en avant.
+  - **Travailler sa présence en ligne** : 
+  Afin de travailler sa présence en ligne, il est donc important de considérer les différents réseaux existants et de réfléchir à la façon de s'y exprimer. 
+  Il est également important de communiquer régulièrement et aux horaires cibles afin de se démarquer. 
+  - **Apprendre à communiquer** : 
+  Dans ce contexte de communication, plusieurs capacités sont à développer autour de la communication: 
+  Premièrement un niveau de français correct est quasi-indispensable. 
+  De plus, il faut comprendre qu'il faut donner un sens à sa présence en ligne. Par exemple, se poser la question de ce que l'on recherche sur le réseau est important. Créer ce que l'on souhaiterait plus voir sur un réseau est important et démontre notre implication. Nous pouvons choisir de vulgariser les informations que l'on apprends au quotidien, se spécialiser dans l'aide active aux débutants, ...
+  - **Utilisation d'outils et mettre en avant son contenu** :
+  Il peut paraître à première vue compliqué de rendre sa présence sur un réseau efficace. Cependant, de nombreux outils existent et sont à notre disposition afin de nous aider à débuter cette présence. Des template courants de post LinkedIn ou de thread Twitter sont disponibles, des Masterclass Youtube permettent de comprendre les principes généraux de fonctionnement des algorithmes, ...
+  - **Développer son réseau** : 
+  Pour finir, il est important de comprendre que ce travail de personnal branding permet de développer un réseau. Une erreur courante est de penser que des inconnus ne peuvent nous aider. Cependant, les réseaux sociaux sont de grandes sources d'entraides pour la recherche de stages ou d'emploi. Il ne faut néanmoins pas noyer son profil par des demandes incessantes au risque de lasser son auditoire. 
+  
 
 ## Comment postuler ?
 
