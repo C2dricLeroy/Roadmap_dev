@@ -52,7 +52,6 @@ Listes des competences / outils :
 - Langages liés à l'entreprise.
 - Connaissances concernant les bases de donnees.
 - Gestion de collaboration de code avec GIT
-
 - Maitrise des regles general de la securite
 - Connaissance lie au framework lie a l'entreprise
 - Connaissance des software les plus communs sur linux et windows
@@ -72,11 +71,11 @@ Listes des soft skills :
 Ces soft skills et hard skills s'applique pour beaucoup de métier dans le corp du développement, en l'occurrence, ici, pour les développeurs Back-end et Front-end.
 
 Pour être un peu plus précis dans la liste des compétences qu'un développeur Front-end doit posséder, voici une description plus détaillée.
-Celui-ci doit avoir une compréhension solide des langages de programmations sur lesquelles il va travailler ou avec les supports qu'il va utiliser, en rapport aves les sites web.
-Il doit aussi avoir une bonne connaissance étendue et approfondie sur la conception web.
-Il doit avoir une certaine approche sur les logiciels d'éditions d'images.
-Il doit savoir communiquer et écouter le client pour concevoir un site web qui lui correspond.
-Il doit aussi avoir une bonne connaissance des langages de programmation côté serveur, s'il n'a pas une bonne comprehension de ce qui se passe du côté serveur, il ne pourra produire quelque chose de qualitatif.
+- Compréhension solide des langages de programmations sur lesquelles il va travailler ou avec les supports qu'il va utiliser.
+- Connaissance étendue et approfondie sur la conception web.
+- Certaine approche sur les logiciels d'éditions d'images.
+- Communiquer et écouter le client pour concevoir un site web qui lui correspond.
+- Bonne connaissance des langages de programmation côté serveur
 
 Nous pouvons nous referer à la roadmap du développeur Front-end et Back-end pour avoir une idée plus précise des compétences qu'il doit posséder pour devenir un développeur confirmer dans son domaine : 
 - [RoadMap Font](https://roadmap.sh/frontend).
