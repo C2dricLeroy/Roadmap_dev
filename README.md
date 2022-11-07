@@ -253,16 +253,15 @@ Le delais peut être variable selon les entreprises. De récentes études indiqu
 
 ### Quels sont les principaux types de tests techniques ?
 
-- QCM : Simple test à choix multiples, il s'agit du test le plus fréquent.
+- **QCM** : Simple test à choix multiples, il s'agit du test le plus fréquent. Dans ce type de test, l'employeur peut nous poser beaucoup de questions, il essaie peut donc à la fois poser des questions techniques et des questions plus générales sur notre culture liée au développement.
 
-- Test de code écrit : Généralement sur papier.
+- **Test de code écrit** : Généralement sur papier, l'employeur ne teste pas directement nos capacités à coder une application fonctionnelle mais notre capacité de raisonnement et de résolution de problème. 
 
-- Test d’algorithmie / code en ligne : Test à complexité variable devant être réalisé dans un delai donné.
-  L'utilisation de plateformes en ligne comme CodinGame sont très fréquentes.
+- **Test d’algorithmie / code en ligne** : Test à complexité variable devant être réalisé dans un delai donné. L'utilisation de plateformes en ligne comme CodinGame sont très fréquentes. Ces plateformes ont pout avantage de tester chez le candidat à la fois ses capacités de résolution de problème et sa connaissance du langage. Attention aux recherches google, certaines plateformes peuvent informer l'employeur lorsque l'on quitte la page.  
 
-- Exercice de mise en situation :
-  Plus complet que les autres tests, il consiste à réaliser une petite application ou un jeu.
-  Dans la plupart des cas, les candidats peuvent le faire depuis chez eux.
+- **Exercice de mise en situation** : Plus complet que les autres tests, il consiste à réaliser une petite application ou un jeu en plusieurs jours ou heures. Dans la plupart des cas, les candidats peuvent le faire depuis chez eux. Plus loin qu'un code propre et documenté, c'est la capacité de conception de l'architecture qui sera jugée. 
+
+- **Live coding**: L'employeur peut demander à ce que l'on code en partageant notre écran. Celui-ci nous observe en situation réelle. L'employeur peut par cet exercice observer notre processus de développement et de résolution de problème. Le livrable attendu doit généralement être fonctionnel. 
 
 ### Qu'allez-vous devoir travailler pour réussir ces tests ?
 
