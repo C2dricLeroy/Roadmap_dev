@@ -52,10 +52,9 @@ Listes des compétences / outils :
 - Langages liés à l'entreprise.
 - Connaissances concernant les bases de données.
 - Gestion de collaboration de code avec GIT
-
-- Maitrise des règles générales de la sécurité
-- Connaissances liées aux framework liés à l'entreprise
-- Connaissance des _software_ les plus communs sur linux et windows
+- Maitrise des regles general de la securite
+- Connaissance lie au framework lie a l'entreprise
+- Connaissance des software les plus communs sur linux et windows
 - Bon niveau d'anglais technique
 - Etre autonome
 
@@ -72,11 +71,12 @@ Listes des soft skills :
 Ces soft skills et hard skills s'appliquent pour beaucoup de métier dans le milieu du développement, en l'occurrence, ici, pour les développeurs Back-end et Front-end.
 
 Pour être un peu plus précis dans la liste des compétences qu'un développeur Front-end doit posséder, voici une description plus détaillée.
-Celui-ci doit avoir une compréhension solide des langages de programmation sur lesquels il va travailler ou avec les supports qu'il va utiliser, en rapport avec les sites web.
-Il doit aussi avoir une bonne connaissance étendue et approfondie sur la conception web.
-Il doit avoir une certaine approche sur les logiciels d'édition d'images.
-Il doit savoir communiquer et écouter le client pour concevoir un site web qui lui correspond.
-Il doit aussi avoir une bonne connaissance des langages de programmation côté serveur, s'il n'a pas une bonne compréhension de ce qui se passe du côté serveur, il ne pourra produire quelque chose de qualitatif.
+
+- Compréhension solide des langages de programmations sur lesquelles il va travailler ou avec les supports qu'il va utiliser.
+- Connaissance étendue et approfondie sur la conception web.
+- Certaine approche sur les logiciels d'éditions d'images.
+- Communiquer et écouter le client pour concevoir un site web qui lui correspond.
+- Bonne connaissance des langages de programmation côté serveur
 
 Nous pouvons nous référer à la roadmap du développeur Front-end et Back-end pour avoir une idée plus précise des compétences qu'il doit posséder pour devenir un développeur confirmé dans son domaine : 
 - [RoadMap Font](https://roadmap.sh/frontend).
