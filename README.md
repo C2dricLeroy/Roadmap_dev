@@ -1,12 +1,12 @@
 - [Roadmap_dev](#roadmap_dev)
   - [Qu'est ce que le metier de FrontEnd et BackEnd?](#quest-ce-que-le-metier-de-frontend-et-backend)
     - [Les termes](#les-termes)
-    - [Les differents roles de chaque poste](#les-differents-roles-de-chaque-poste)
-    - [Competences et Outils](#competences-et-outils)
+    - [Les différents rôles de chaque poste](#les-différents-rôles-de-chaque-poste)
+    - [Compétences et Outils](#compétences-et-outils)
     - [Avec quelle personne est-on amené à travailler ?](#avec-quelle-personne-est-on-amené-à-travailler-)
     - [Quelles sont les évolutions du métier ?](#quelles-sont-les-évolutions-du-métier-)
     - [La différence entre un Software Engineer et un Développeur ?](#la-différence-entre-un-software-engineer-et-un-développeur-)
-    - [La différence entre compétent et compétence](#la-différence-entre-compétent-et-compétence)
+    - [La différence entre être compétent et  avoir des compétences](#la-différence-entre-être-compétent-et--avoir-des-compétences)
   - [Startup/ ESN/ Freelance](#startup-esn-freelance)
     - [Qu'est-ce qu'une Startup ?](#quest-ce-quune-startup-)
       - [Une journée type Startup :](#une-journée-type-startup-)
@@ -82,7 +82,7 @@ Une personne compétente possède une compétence à effectuer une tâche spéci
 
 Une personne est spécialisée lorsqu’elle a été amenée ou a décidée de travailler avec un outil spécifique. Cette habitude de travail lui a permis d’acquérir des connaissances générales dans un domaine.
 
-### Les differents roles de chaque poste
+### Les différents rôles de chaque poste
 
 Le rôle de développeur back-end est plus ou moins large, il peut s'occuper de la partie serveur d'un projet où il va effectuer différentes missions :
 
@@ -94,7 +94,7 @@ Le rôle de développeur back-end est plus ou moins large, il peut s'occuper de 
 
 Les rôles et missions du développeur back-end sont donc très large, cela peut découler d'une simple mission de "codeur", comme des tâches plus poussées.
 Il est aussi possible que le développeur back-end s'apparente à un rôle de décisionnaire dans les choix techniques.
-Si dans le cas où un architecte développeur n'est pas présent, il peut proposer et réfléchir à la mise en place de l'infrastructure ou à améliorer celle déjà en place. Il devra créer un environnement adapté aux besoins des projets.
+Dans le cas où un architecte développeur n'est pas présent, il peut proposer et réfléchir à la mise en place de l'infrastructure ou à améliorer celle déjà en place. Il devra créer un environnement adapté aux besoins des projets.
 
 Un développeur front-end est un programmeur informatique qui code et crée les éléments visuels d’un logiciel, d’une application ou d’un site web.
 Il crée des composants / fonctionnalités informatiques directement visibles et accessibles par l’utilisateur final ou le client.
@@ -104,18 +104,18 @@ Ces deux rôles ne se limitent pas seulement à la prise de decision et au déve
 Le principe est de faire avancer le projet en fonction des besoins du client, de la demande du projet, et de l'équipe.
 Savoir jauger ses capacités et celles de son équipe est un point important pour un développeur.
 
-### Competences et Outils
+### Compétences et Outils
 
-Les compétences et outils sont intimement liés, l'utilisation de certain outils demende des compétences spécifiques comme l'utilisation de _framework_ spécifiques.
+Les compétences et outils sont intimement liés, l'utilisation de certain outils demande des compétences spécifiques comme l'utilisation de _framework_ spécifiques.
 
 Listes des compétences / outils :
 
-- Langages liés à l'entreprise.
+- Langages utilisés par l'entreprise.
 - Connaissances concernant les bases de données.
 - Gestion de collaboration de code avec GIT
-- Maitrise des regles general de la securite
-- Connaissance lie au framework lie a l'entreprise
-- Connaissance des software les plus communs sur linux et windows
+- Maitrise des règles générales de la sécurité
+- Connaissance lié aux frameworks utilisés par l'entreprise
+- Connaissance des softwares les plus communs sur linux et windows
 - Bon niveau d'anglais technique
 - Etre autonome
 
@@ -134,9 +134,9 @@ Pour être un peu plus précis dans la liste des compétences qu'un développeur
 
 - Compréhension solide des langages de programmations sur lesquelles il va travailler ou avec les supports qu'il va utiliser.
 - Connaissance étendue et approfondie sur la conception web.
-- Certaine approche sur les logiciels d'éditions d'images.
+- Approche des logiciels d'éditions d'images.
 - Communiquer et écouter le client pour concevoir un site web qui lui correspond.
-- Bonne connaissance des langages de programmation côté serveur
+- Bonne connaissance des langages de programmation côté serveur.
 
 Nous pouvons nous référer à la roadmap du développeur Front-end et Back-end pour avoir une idée plus précise des compétences qu'il doit posséder pour devenir un développeur confirmé dans son domaine :
 
@@ -145,7 +145,7 @@ Nous pouvons nous référer à la roadmap du développeur Front-end et Back-end 
 
 ### Avec quelle personne est-on amené à travailler ?
 
-Les développeurs Front et Back-end est amené plus ou moins à travailler avec la même personne, la communication avec les différentes équipes est mot d'ordre en tant que développeur.
+Les développeurs Front et Back-end est amené plus ou moins à travailler avec la même personne, la communication avec les différentes équipes est un mot d'ordre en tant que développeur.
 
 Voici une liste non exhaustive des métiers en contacte avec des développeurs :
 
@@ -172,7 +172,7 @@ Voici une liste non exhaustive des métiers en contacte avec des développeurs :
 Description des métiers :
 
 - **Managers** : Le manager s'occupe de la gestion, de l'administration, de l'organisation et d'un service ou d'un projet.
-- **Architectes** : Les architectes ont pour objectifs de mettre en place les infrastructures et de maintenir le projet. C'est un développeur qui a une vision globale du projet. Ce développeur à aussi le choix des technologies adaptés à utiliser.
+- **Architectes** : Les architectes ont pour objectifs de mettre en place les infrastructures et de maintenir le projet. C'est un développeur qui a une vision globale du projet. Ce développeur a aussi le choix des technologies adaptées à utiliser.
 - **UX et/ou UI Designer / Designer** : Les designers ont pour travail de créer des interfaces visuelles pour les utilisateurs. Ils sont aussi chargés de la création de l'identité visuelle de l'entreprise.
 - **Chercheurs** : Les chercheurs sont chargés de la recherche et de l'innovation. Ils sont chargés de trouver des solutions pour améliorer les produits et les services.
 - **IT sécurity** : Les équipes en IT sécurity sont chargés de la sécurité informatique. Ils sont chargés de la sécurité des données et des systèmes informatiques.
@@ -183,7 +183,7 @@ Description des métiers :
 
 ### Quelles sont les évolutions du métier ?
 
-Les différents métiers ci-dessus peuvent devenir une évolution de carrière pour certain, par exemple les développeurs peuvent être amené à devenir Lead Développeur et / ou Architecte Développeur par la suite.
+Les différents métiers ci-dessus peuvent devenir une évolution de carrière pour certain, par exemple les développeurs peuvent être amenés à devenir Lead Développeur et / ou Architecte Développeur par la suite.
 
 Voici la liste des évolutions pour les métiers de développeur front-end et back-end :
 
@@ -216,7 +216,7 @@ Le développeur a pour responsabilité de créer, maintenir, tester le projet. I
 
 Celui-ci à le choix de se spécialiser dans différents domaines ou technologies, l’ingénieur logiciel se doit d’être plus généraliste quant au choix de ses domaines, car il sera amené à gérer différents domaines et technologies.
 
-### La différence entre compétent et compétence
+### La différence entre être compétent et  avoir des compétences
 
 Lorsque l’on possède une compétence, il n’y a pas la notion de pratique qui entre en jeu. Il faut agir avec une compétence pour être compétent.
 Grâce à ses compétences, on peut devenir compétent, à force de pratique, en utilisant ses compétences, les compétences sont reconnues.
@@ -227,7 +227,7 @@ Grâce à ses compétences, on peut devenir compétent, à force de pratique, en
 Une startup est une nouvelle entreprise avec un potentiel croissant. Ayant pour objectif de dominer le marché dans lequel est son secteur d'activité.
 Elle passe par une phase temporaire visant à obtenir une entreprise stable.
 
-Dans ce type d'entreprise, vous devez être capable de vous adaptez aux méthodologies actuelles et aux nouvelles technologies. Nouvellement crée, elle recherchera des personnes autonomes, polyvalentes car elle sera souvent limitée en personnel. Cependant, elle prendra soin de ces employés avec des horaires flexibles, des bureaux agréables, utilisant la méthodologie agile... tout cela lié aux méthodes de management les plus récentes.
+Dans ce type d'entreprise, vous devez être capable de vous adaptez aux méthodologies actuelles et aux nouvelles technologies. Nouvellement crée, elle recherchera des personnes autonomes, polyvalentes car elle sera souvent limitée en personnel. Cependant, elle prendra soin de ses employés avec des horaires flexibles, des bureaux agréables, utilisant la méthodologie agile... tout cela lié aux méthodes de management les plus récentes.
 Les facteurs de succès pour un développeur sont associés au code durable, documenté et testé.
 Elle aura une grande responsabilité dans la stratégie de marketing cherchant à améliorer sa productivité.
 
@@ -235,21 +235,22 @@ Elle aura une grande responsabilité dans la stratégie de marketing cherchant �
 - Réunion daily
 - Communication mail
 - Faire ses tâches 
-- Test - drivendeveloppement
+- Test Driven Developpement
 - reprise du code
 - Soumet la merge GIT
 
 ### Qu'est-ce que l'ESN et le SSI ?
 
-l'ESN (Entreprise de service numérique) anciennement connu sous le nom SSI (Société de service en ingénierie informatique), apporte ses services dans le domaine informatique aux entreprises clientes, souvent sans matériel adequat et intervienne directement chez eux.
+l'ESN (Entreprise de service numérique) anciennement connu sous le nom SSI (Société de service en ingénierie informatique), apporte ses services dans le domaine informatique aux entreprises clientes, souvent sans matériel adéquat et interviennent directement chez eux.
 L'ESN propose différents services par exemple donner des conseils, faire une maintenance, intégrer un système etc.
 
-Ce type d'entreprise embauche facilement des juniors spécialisées dans leur domaine avec une faible rémunération, pour travailler sur des missions spécifiques. Ils devront être multitâches et travailler sur plusieurs projets. Chacun pourra s'épanouir dans sa spécialité, néanmoins il existe moins de perspective d'évolution.
+Ce type d'entreprise embauche facilement des juniors spécialisés dans leur domaine avec une faible rémunération, pour travailler sur des missions spécifiques. Ils devront être multitâches et travailler sur plusieurs projets. Chacun pourra s'épanouir dans sa spécialité, néanmoins il existe moins de perspectives d'évolution.
 
 #### Une journée type ESN :
 - Communication mail
 - faire ses tâches
 - soumet la merge GIT à l'équipe
+  La méthodologie Agile est souvent adaptée en fonction des besoins et contraintes du projet.
 
 #### Qu'est-ce que freelance ?
 
@@ -264,23 +265,23 @@ Cependant, elles ont des horaires plus flexibles, collaborant à distance et son
 - Définition des tâches
 - Communication mail
 - Fait ses tâches
-- Communication réseau
+- Communication réseau / Démarchage de client
 - Veille info
-- Administratif(Facture...)
+- Administratif(Factures...)
 
 
 ## Le recrutement :
 ### Quelles sont les étapes du processus de recrutement ?
 
-Le recrutement est crucial dans la vie d'une entreprise. En effet, un bon recrutement a pour but doit jouer avec le but d'aggrandir l'entreprise avec de nouveaux collaborateurs tout en s'efforcant de renforcer les équipes déjà en place par l'intégration d'une personnalité s'intégrant dans leur équipe.
+Le recrutement est crucial dans la vie d'une entreprise. En effet, un bon recrutement doit jouer avec le but d'aggrandir l'entreprise avec de nouveaux collaborateurs tout en s'efforcant de renforcer les équipes déjà en place par l'intégration d'une personnalité s'intégrant dans leur équipe.
 
 Il est possible de tirer différentes étapes dans le recrutement:
 
-1. **Rédaction de la fiche de poste** : En amont du recrutement, il est nécessaire de faire un point sur les besoins de ses équipes. Cela peut passer par différents moyens : entretetiens avec les collaborateurs actuels, les informations recueillies lors des entretiens annuels, les besoins remontés par les Lead Devs ou Scrum Masters, ... Cette récolte d'informations concernant les équipes en place permet de tracer un poste recherché. Une liste des tâches doit être inscrite dans une fiche de poste afin de décrire les compétences nécessaires au futur employé. Ces étapes sont cruciales afin de définir le profil recherché.
-2. **Rédaction de l'annonce** : L'employeur peut désormais rédiger l'offre d'emploi. Cette annonce comporte les pricnipales caractéristiques que l'entreprise veut montrer. Des inforamtions peuvent y être trouvées telles que l'identité visuelle (Elements visuels pouvant nous apporter des inforamtions, modernité ?), l'identité de communication (l'annonce est-elle rédigée à la premiere personne? l'offre s'appuie t'elle sur une personnalité recherchée plutôt que sur des compètences précises?), le profil de RH peut également être deviné (l'annonce est-elle impérative ?), ...
-3. **La diffusion de l'annonce** : Une fois l'annonce rédigée, le recruteur choisit également avec précaution les canaux de diffusion. En moyenne, les recruteurs n'utilisent que 3,1 canaux de diffusion. En effet, avec une stratégie bien définie et des canaux bien choisis, il n'a pas besoin de plus!
+1. **Rédaction de la fiche de poste** : En amont du recrutement, il est nécessaire de faire un point sur les besoins de ses équipes. Cela peut passer par différents moyens : entretiens avec les collaborateurs actuels, les informations recueillies lors des entretiens annuels (EAE), les besoins remontés par les Lead Devs ou Scrum Masters, ... Cette récolte d'informations concernant les équipes en place permet de tracer un poste recherché. Une liste des tâches doit être inscrite dans une fiche de poste afin de décrire les compétences nécessaires au futur employé. Ces étapes sont cruciales afin de définir le profil recherché.
+2. **Rédaction de l'annonce** : L'employeur peut désormais rédiger l'offre d'emploi. Cette annonce comporte les principales caractéristiques que l'entreprise veut montrer. Des informations peuvent y être trouvées telles que l'identité visuelle (Elements visuels pouvant nous apporter des informations, modernité ?), l'identité de communication (l'annonce est-elle rédigée à la premiere personne? l'offre s'appuie t'elle sur une personnalité recherchée plutôt que sur des compètences précises?), le profil de RH peut également être deviné (l'annonce est-elle impérative ?), ...
+3. **La diffusion de l'annonce** : Une fois l'annonce rédigée, le recruteur choisit également avec précaution les canaux de diffusion. En moyenne, les recruteurs n'utilisent que 3,1 canaux de diffusion. En effet, avec une stratégie bien définie et des canaux bien choisis, ils n'en ont pas besoin de plus!
 4. **Pré-selection**: Les recruteurs sont limités en temps pour connaître les profils de leur candidats. En amont de leur rencontre, ils réfléchissent donc aux informations qui les intéressent le plus et à la façon de les récolter. De plus, devant l'afflux de candidats, certaines entreprises peuvent choisir des IA et des logiciels (comme ATS pour Applicant Tracking System) afin de "trier" et maximiser leurs chances de trouver les meilleurs candidats. (Voir Les outils pour un meilleur sourcing)
-5. **Les entretiens d'embauches** : Partie la plus redoutée par les candidats, les entretiens font également partie intégrante de la stratégie des recruteurs. Le temps étant limité, une fois de plus les outils et les conditions de passations sont réfléchies. Nous étudierons les tenants et aboutissants des différents types d'entretien ainsi que des différents types de tests.
+5. **Les entretiens d'embauches** : Partie la plus redoutée par les candidats, les entretiens font également partie intégrante de la stratégie des recruteurs. Le temps étant limité, une fois de plus les outils et les conditions de passations sont réfléchies. Nous étudierons les tenants et aboutissants des différents types d'entretien ainsi que des différents types de tests techniques pouvant être rencontrés.
 6. **Choix et administratif** : Une fois les candidatures examinées et les entretiens effectués, le recruteur effectue le choix du futur collaborateur dans lesquelles il peut être aidé et conseillé par d'autres membres de l'équipe, puis les démarches administratives.
 7. **Arrivée du nouvel employé** : Le nouveau collaborateur peut désormais être intégré à l'équipe.
 
@@ -336,7 +337,7 @@ Le delais peut être variable selon les entreprises. De récentes études indiqu
 
 ### Quels sont les principaux types de tests techniques ?
 
-- **QCM** : Simple test à choix multiples, il s'agit du test le plus fréquent. Dans ce type de test, l'employeur peut nous poser beaucoup de questions, il essaie peut donc à la fois poser des questions techniques et des questions plus générales sur notre culture liée au développement.
+- **QCM** : Simple test à choix multiples, il s'agit du test le plus fréquent. Dans ce type de test, l'employeur peut nous poser beaucoup de questions, il peut donc à la fois poser des questions techniques et des questions plus générales sur notre culture liée au développement.
 
 - **Test de code écrit** : Généralement sur papier, l'employeur ne teste pas directement nos capacités à coder une application fonctionnelle mais notre capacité de raisonnement et de résolution de problème. 
 
@@ -356,8 +357,8 @@ Par exemple, le test du FizzBuzz est un bon entraînement pour travailler sa log
 ### Que recherche-t-on dans l'élaboration de ces tests ? Qui recherche-t-on ?
 
 Pour les entreprises ces tests sont un excellent moyen de voir les candidats en condition de travail avant une possible embauche.
-Permet aussi de voir comment les candidats se comportent face au stress et comment ils y font face.
-Voir la capacité d'adaptation des candidats.
+Cela permet aussi de voir comment les candidats se comportent face au stress et comment ils y font face.
+Il y a une démarche de recherche afin de trouver la capacité d'adaptation des candidats.
 
 Ces tests sont également utilisés pour évaluer les compétences actuelles des candidats et déterminer leur possible marge de progression.
 
@@ -370,19 +371,19 @@ Cette image est un regroupement de contenus en ligne (réseaux sociaux, commenta
 Il existe deux types de contenus : ceux publiés par la personne et ceux publiés par des tiers.
 
 L'identité numérique repose sur les informations que nous laissons volontairement ou non sur internet.
-Cela peut allez d'une simple photos de vacances sur facebook ou d'un ancien twitter. 
+Cela peut allez d'une simple photo de vacance sur facebook ou d'un ancien twitter. 
 
-Ces informations une fois publiées ne nous apparttiennent plus vraiment et peuvent même nous porter préjudice.
+Ces informations une fois publiées ne nous appartiennent plus vraiment et peuvent même nous porter préjudice.
 Il est donc primordial de bien maitriser son image afin de pas noircir notre réputation car dans le monde du web on vous jugera sur celle-ci.
 
-En effet, lors du recrutement, il n'est pas rare qu'un employeur rentre notre nom sur Google afin d'avoir des informations sur nous. Nous ne voulons pas que ceui-ci tombe sur notre vieux skyblog ou sur les photos facebook publiée par un ami après une soirée arrosée.. De plus, nos commentaires sur les réseau sociaux peuvent eux aussi être retrouvés ! Il est donc nécessaire de rester cordial et construit dans nos argumentaires sur les réseaux afin de conserver un certain profesionnalisme. 
+En effet, lors du recrutement, il n'est pas rare qu'un employeur rentre notre nom sur Google afin d'avoir des informations sur nous. Nous ne voulons pas que celui-ci tombe sur notre vieux skyblog ou sur les photos facebook publiée par un ami après une soirée arrosée.. De plus, nos commentaires sur les réseau sociaux peuvent eux aussi être retrouvés ! Il est donc nécessaire de rester cordial et construit dans nos argumentaires sur les réseaux afin de conserver un certain profesionnalisme. 
 
 ### Que dit Google sur vous ?
 
 Comment se préparer à l'éventualité d'une recherche nous concernant sur Internet ? 
 
 Un premier test consiste simplement à entrer son nom et son prénom sur Google afin de voir les résultats de recherches arrivant en premier. 
-Il n'est pas conseillé de laisser son facebook personnel apparaître en premier résultat de recherche. Un portfolio professionnel ou un linkedIn professionel fait bien meilleur impression. 
+Il n'est pas conseillé de laisser son facebook personnel apparaître en premier résultat de recherche. Un portfolio professionnel ou un linkedIn professionel fait bien meilleure impression. 
 
 Il est également possible d'utiliser le service Google Alerts afin de recevoir des alertes lorsqu'est publié quelque chose avec votre nom et prénom. 
 
@@ -390,7 +391,7 @@ Un autre outil permettant de rechercher des informations nous concernant est Web
 
 ### Quelles traces est-il possible de laisser en ligne ?
 
-\*Il existe deux types de traces :\*\*
+Il existe deux types de traces: 
 
 1.  Les traces volontaires :
     - Publication sur facebook, blog etc..
@@ -415,8 +416,8 @@ Travailler son personnal branding pour un candidat passe en priorité par sa pr�
 
 Avant toute chose, il est important d'apprendre à se connaître: 
   - **Apprendre à se connaître** : 
-  Apprendre à se connaitre passe premièrement par une réflexion sur les compétences que l'on veut mettre en avant. Les compétences doivent être choisies en fonction du type d'entreprise cible.  
-  D'autre part, il est important de connapitre également ses faiblesses. Lorsque l'on est présent en ligne, exposer ses faiblesses peut être considéré par un employeur comme une bonne chose avec une remise en question. Néanmoins, exposer son désarroi suite à un entretien, exposer sa détresse face à un problème simple peut donner une mauvaise impression. Les fabilesses peuvent donc être exposées mais avec parcimonie et réflexion : celles-ci doivent démontrer les capacités d'apprentissage et de résolution des problèmes plutôt que d'être une dévalorisation. 
+  Apprendre à se connaître passe premièrement par une réflexion sur les compétences que l'on veut mettre en avant. Les compétences doivent être choisies en fonction du type d'entreprise cible.  
+  D'autre part, il est important de connaître également ses faiblesses. Lorsque l'on est présent en ligne, exposer ses faiblesses peut être considéré par un employeur comme une bonne chose avec une remise en question. Néanmoins, exposer son désarroi suite à un entretien, exposer sa détresse face à un problème simple peut donner une mauvaise impression. Les fabilesses peuvent donc être exposées mais avec parcimonie et réflexion : celles-ci doivent démontrer les capacités d'apprentissage et de résolution des problèmes plutôt que d'être une dévalorisation. 
   - **Définir ses objectifs**: 
   Il est également important de définir ses objectifs à court, moyen et long terme. Les objectifs doivent être de préférence concrets et réalisables, et reflèter un cheminement à la fois professionnel et personnel. 
   - **Centres d'intérêts** : 
@@ -424,7 +425,7 @@ Avant toute chose, il est important d'apprendre à se connaître:
 
 Deuxièmement, il est important de se faire connaître. 
   - **Identifier la cible** : 
-  Premièrement et en lien avec le fait de se connaître, notre projet professionel nous conduit à identifier des recruteurs cible. Il est important de comprendre que selon ses cibles et selon son projet professionnel, la communication effectuée et les canaux choisis ne seront pas les mêmes. Par exemple, si à l'avenir un poste à responsabilité dans une ESN est recherché, la présence sur LinkedIn et un professionalisme rigoureux et à publier. 
+  Premièrement et en lien avec le fait de se connaître, notre projet professionel nous conduit à identifier des recruteurs cible. Il est important de comprendre que selon ses cibles et selon son projet professionnel, la communication effectuée et les canaux choisis ne seront pas les mêmes. Par exemple, si à l'avenir un poste à responsabilité dans une ESN est recherché, la présence sur LinkedIn et un professionalisme rigoureux est à publier. 
   Pour un poste visé dans une start-up, les soft skills et les compétences annexes, la disponibilité et la pédagogie peuvent être à mettre en avant.
   - **Travailler sa présence en ligne** : 
   Afin de travailler sa présence en ligne, il est donc important de considérer les différents réseaux existants et de réfléchir à la façon de s'y exprimer. 
@@ -454,7 +455,7 @@ Il existe deux types de communication :
 Ces deux types de communication sont à travailler. 
 
 Le manque de confiance en soi constitue un cercle vicieux : 
-Le peu de confiance en soi (1), entraine un comportement de retrait et une action sans conviction (2), cela entraine des expériences décevantes (3) et la personne se sent peu compétente (4), ces mauvaises expérience et cet apprentissage renforcent alors le manque de confiance en soi (5). 
+Le peu de confiance en soi (1), entraîne un comportement de retrait et une action sans conviction (2), cela entraine des expériences décevantes (3) et la personne se sent peu compétente (4), ces mauvaises expériences et cet apprentissage renforcent alors le manque de confiance en soi (5). 
 
 Des exercices techniques peuvent être tirés de ces grands domaines : 
 1) Apprendre à se connaitre pour gérer au mieux les situations de stress
