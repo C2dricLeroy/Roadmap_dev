@@ -9,8 +9,9 @@
     - [La différence entre compétent et compétence](#la-différence-entre-compétent-et-compétence)
   - [Startup/ ESN/ Freelance](#startup-esn-freelance)
     - [Qu'est-ce qu'une Startup ?](#quest-ce-quune-startup-)
-  - [Une journée type Startup :](#une-journée-type-startup-)
+      - [Une journée type Startup :](#une-journée-type-startup-)
     - [Qu'est-ce que l'ESN et le SSI ?](#quest-ce-que-lesn-et-le-ssi-)
+      - [Une journée type ESN :](#une-journée-type-esn-)
       - [Qu'est-ce que freelance ?](#quest-ce-que-freelance-)
   - [Le recrutement :](#le-recrutement-)
     - [Quelles sont les étapes du processus de recrutement ?](#quelles-sont-les-étapes-du-processus-de-recrutement-)
@@ -229,7 +230,7 @@ Dans ce type d'entreprise, vous devez être capable de vous adaptez aux méthodo
 Les facteurs de succès pour un développeur sont associés au code durable, documenté et testé.
 Elle aura une grande responsabilité dans la stratégie de marketing cherchant à améliorer sa productivité.
 
-## Une journée type Startup :
+#### Une journée type Startup :
 - Réunion daily
 - Communication mail
 - Faire ses tâches 
@@ -243,6 +244,11 @@ l'ESN (Entreprise de service numérique) anciennement connu sous le nom SSI (Soc
 L'ESN propose différents services par exemple donner des conseils, faire une maintenance, intégrer un système etc.
 
 Ce type d'entreprise embauche facilement des juniors spécialisées dans leur domaine avec une faible rémunération, pour travailler sur des missions spécifiques. Ils devront être multitâches et travailler sur plusieurs projets. Chacun pourra s'épanouir dans sa spécialité, néanmoins il existe moins de perspective d'évolution.
+
+#### Une journée type ESN :
+- Communication mail
+- faire ses tâches
+- soumet la merge GIT à l'équipe
 
 #### Qu'est-ce que freelance ?
 
