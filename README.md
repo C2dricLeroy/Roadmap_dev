@@ -13,6 +13,7 @@
     - [Qu'est-ce que l'ESN et le SSI ?](#quest-ce-que-lesn-et-le-ssi-)
       - [Une journée type ESN :](#une-journée-type-esn-)
       - [Qu'est-ce que freelance ?](#quest-ce-que-freelance-)
+      - [Une journée type Freelance :](#une-journée-type-freelance-)
   - [Le recrutement :](#le-recrutement-)
     - [Quelles sont les étapes du processus de recrutement ?](#quelles-sont-les-étapes-du-processus-de-recrutement-)
     - [Les outils pour un meilleur sourcing](#les-outils-pour-un-meilleur-sourcing)
@@ -258,6 +259,14 @@ N'importe qui peut se lancer dans le freelance à condition d'être polyvalent e
 Le succès du freelance réside dans l'autonomie, d'être curieux et de rechercher des missions/clients.
 Ce type de structure à des débuts difficiles car l'entreprise n'est pas encore reconnue.
 Cependant, elles ont des horaires plus flexibles, collaborant à distance et sont libres de fixer leur prix.
+
+#### Une journée type Freelance :
+- Définition des tâches
+- Communication mail
+- Fait ses tâches
+- Communication réseau
+- Veille info
+- Administratif(Facture...)
 
 
 ## Le recrutement :
