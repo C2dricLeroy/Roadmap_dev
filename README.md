@@ -9,6 +9,7 @@
     - [La différence entre compétent et compétence](#la-différence-entre-compétent-et-compétence)
   - [Startup/ ESN/ Freelance](#startup-esn-freelance)
     - [Qu'est-ce qu'une Startup ?](#quest-ce-quune-startup-)
+  - [Une journée type Startup :](#une-journée-type-startup-)
     - [Qu'est-ce que l'ESN et le SSI ?](#quest-ce-que-lesn-et-le-ssi-)
       - [Qu'est-ce que freelance ?](#quest-ce-que-freelance-)
   - [Le recrutement :](#le-recrutement-)
@@ -227,6 +228,14 @@ Elle passe par une phase temporaire visant à obtenir une entreprise stable.
 Dans ce type d'entreprise, vous devez être capable de vous adaptez aux méthodologies actuelles et aux nouvelles technologies. Nouvellement crée, elle recherchera des personnes autonomes, polyvalentes car elle sera souvent limitée en personnel. Cependant, elle prendra soin de ces employés avec des horaires flexibles, des bureaux agréables, utilisant la méthodologie agile... tout cela lié aux méthodes de management les plus récentes.
 Les facteurs de succès pour un développeur sont associés au code durable, documenté et testé.
 Elle aura une grande responsabilité dans la stratégie de marketing cherchant à améliorer sa productivité.
+
+## Une journée type Startup :
+- Réunion daily
+- Communication mail
+- Faire ses tâches 
+- Test - drivendeveloppement
+- reprise du code
+- Soumet la merge GIT
 
 ### Qu'est-ce que l'ESN et le SSI ?
 
